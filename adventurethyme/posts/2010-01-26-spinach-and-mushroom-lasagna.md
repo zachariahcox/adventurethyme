@@ -1,116 +1,64 @@
+<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2010-01-26-spinach-and-mushroom-lasagna-formatted.md -->
 ---
 title: "Spinach and Mushroom Lasagna"
 date: 2010-01-26
 original_link: https://adventurethyme.blogspot.com/2010/01/spinach-and-mushroom-lasagna.html
 ---
 
-Spinach
+_Vegetarian lasagna with ricotta, spinach, and mushrooms_
+_Serves 8-10_
 
-1
+## Ingredients
 
-tablespoon [table salt](http://www.cooksillustrated.com/tastetests/overview.asp?docid=9842)
+### Mushroom Layer
+| Quantity | Ingredient |
+| -------- | ---------- |
+| 2 Tbsp | olive oil |
+| 1 | medium onion, finely chopped |
+| 4 cloves | garlic, minced |
+| 1 1/2 lbs | mushrooms, sliced (cremini, button, or a mix) |
+| 1/2 tsp | dried thyme |
+| 1/2 tsp | salt |
+| 1/4 tsp | black pepper |
+| 2 Tbsp | fresh parsley, chopped |
 
-20
+### Spinach-Ricotta Layer
+| Quantity | Ingredient |
+| -------- | ---------- |
+| 2 (10 oz) packages | frozen chopped spinach, thawed and squeezed dry |
+| 2 lbs | ricotta cheese |
+| 2 | large eggs |
+| 1/2 cup | grated Parmesan cheese |
+| 1 tsp | salt |
+| 1/2 tsp | black pepper |
+| 1/4 tsp | nutmeg |
+| 2 Tbsp | fresh basil, chopped (or 2 tsp dried) |
 
-ounces curly spinach (2 bags), stemmed and rinsed
+### Assembly
+| Quantity | Ingredient |
+| -------- | ---------- |
+| 1 (28 oz) jar | marinara sauce |
+| 12 | no-boil lasagna noodles |
+| 1 lb | mozzarella cheese, shredded |
+| 1/4 cup | grated Parmesan cheese |
 
-Bechamel
+## Instructions
 
-7
+1. Preheat oven to 375°F. Lightly grease a 9x13 inch baking dish.
+2. For the mushroom layer: Heat olive oil in a large skillet over medium heat. Add onion and cook until softened, about 5 minutes.
+3. Add garlic and cook for another minute until fragrant.
+4. Add mushrooms, thyme, salt, and pepper. Cook, stirring occasionally, until mushrooms release their moisture and it evaporates, about 10-12 minutes.
+5. Stir in parsley and remove from heat. Set aside.
+6. For the spinach-ricotta layer: In a large bowl, combine the squeezed spinach, ricotta, eggs, Parmesan, salt, pepper, nutmeg, and basil. Mix well.
+7. To assemble: Spread 1/3 of the marinara sauce on the bottom of the prepared baking dish.
+8. Layer 4 lasagna noodles over the sauce, slightly overlapping.
+9. Spread half of the spinach-ricotta mixture over the noodles.
+10. Spread half of the mushroom mixture over the spinach-ricotta layer.
+11. Sprinkle with 1/3 of the mozzarella cheese.
+12. Repeat layers: Add another 1/3 of the marinara sauce, 4 more noodles, remaining spinach-ricotta mixture, remaining mushroom mixture, and another 1/3 of the mozzarella.
+13. Top with the remaining 4 noodles, remaining marinara sauce, remaining mozzarella, and 1/4 cup Parmesan cheese.
+14. Cover with foil (tent it slightly so it doesn't touch the cheese) and bake for 40 minutes.
+15. Remove foil and bake for an additional 10-15 minutes until the top is golden and bubbly.
+16. Let rest for 15 minutes before cutting and serving.
 
-tablespoons unsalted butter , divided
-
-8
-
-ounces white button mushrooms , cleaned, trimmed, and sliced 1/4-inch thick
-
-5
-
-large shallots , minced (about 1 cup)
-
-4
-
-medium cloves garlic , minced or pressed through garlic press (generous 1 tablespoon)
-
-1/4
-
-cup [unbleached all-purpose flour](http://www.cooksillustrated.com/tastetests/overview.asp?docid=9804)
-
-3 1/2
-
-cups whole milk
-
-2
-
-bay leaves
-
-3/4
-
-teaspoon fresh grated nutmeg
-
-1/2
-
-teaspoon [table salt](http://www.cooksillustrated.com/tastetests/overview.asp?docid=9842)
-
-1/4
-
-teaspoon ground black pepper
-
-1
-
-ounce [grated Parmesan cheese](http://www.cooksillustrated.com/tastetests/overview.asp?docid=10186) (about 1/2 cup)
-
-Cheeses and Pasta
-
-8
-
-ounces [whole milk cottage cheese](http://www.cooksillustrated.com/tastetests/overview.asp?docid=18863)
-
-1
-
-large egg
-
-1/4
-
-teaspoon [table salt](http://www.cooksillustrated.com/tastetests/overview.asp?docid=9842)
-
-1
-
-tablespoon unsalted butter for baking dish
-
-12
-
-[no-boil lasagna noodles](http://www.cooksillustrated.com/tastetests/overview.asp?docid=9843) from 1 box
-
-2
-
-ounces [grated Parmesan cheese](http://www.cooksillustrated.com/tastetests/overview.asp?docid=10186) (about 1 cup)
-
-8
-
-ounces [Italian fontina cheese](http://www.cooksillustrated.com/tastetests/overview.asp?docid=9994) , shredded (about 2 cups)
-
-#### Instructions
-
-1.  1\. **For the spinach:** Fill large bowl with ice water. Bring 4 quarts water to boil in large Dutch oven or stockpot over high heat; add salt and spinach, stirring until spinach is just wilted, about 5 seconds. Using skimmer or fine-mesh strainer, transfer spinach to ice water and let stand until completely cool, about 1 minute, then drain spinach and transfer to clean kitchen towel. Wrap towel tightly around spinach to form ball and wring until dry. Chop spinach medium and set aside.  
-    
-2.  2\. **For the béchamel:**(See illustrations below): Melt 2 tablespoons of the butter in a medium saucepan over medium heat until foaming, add the mushrooms. Sauté until lightly brown, about 8 minutes. With a slotted spoon, remove the mushrooms to a small bowl. Melt the remaining 5 tablespoons butter in the saucepan over medium heat until foaming; add shallots and garlic and cook, stirring frequently, until translucent, about 4 minutes. Add flour and cook, stirring constantly, for about 1 1/2 minutes; do not brown. Gradually whisk in milk. Bring mixture to boil over medium-high heat, whisk in bay leaves, nutmeg, salt, and pepper; reduce heat to low and simmer 10 minutes, whisking occasionally. Whisk in Parmesan and discard bay leaves. Transfer sauce to bowl, press plastic wrap directly against surface, and set aside.
-    
-3.  3.**For the cheeses, pasta, and assembly:** Blend cottage cheese, egg, and salt in food processor or blender until very smooth, about 30 seconds. Transfer to bowl and set aside. Adjust oven rack to middle position and heat oven to 425 degrees. Place noodles in a 13- by 9-inch broilersafe baking dish and cover with hot tap water; let soak 5 minutes, agitating noodles occasionally to prevent sticking. Remove noodles from water and place in single layer on kitchen towel. Wipe baking dish dry and coat with remaining 1 tablespoon butter. Use rubber spatula to distribute 1/2 cup béchamel in bottom of baking dish; position 3 noodles on top of sauce. Stir spinach into remaining béchamel in bowl, mixing well to break up clumps of spinach (you should have about 4 cups spinach/béchamel mixture). Spread 1 cup spinach mixture evenly over noodles, sprinkle evenly with Parmesan, and top with 3 more noodles. Spread 1 cup spinach mixture evenly over noodles, sprinkle evenly with 1 cup fontina, and top with 3 more noodles. Spread 1 cup spinach mixture evenly over noodles, followed by cottage cheese mixture. Place the mushrooms evenly over the cottage cheese mixture. Finish with 3 noodles, remaining cup spinach mixture, and remaining cup fontina. Lightly spray large sheet foil with nonstick cooking spray and cover lasagna. Bake until bubbling, about 20 minutes, then remove foil. Remove lasagna and adjust oven rack to uppermost position (about 6 inches from heating element) and heat broiler. Broil lasagna until cheese is spotty brown, 4 to 6 minutes. Cool 10 minutes, then cut into pieces and serve.
-    
-
-Notes:  
-
-*   Too mild
-*   Too sweet
-*   Excellent  
-    
-
-Things to change:  
-
-*   Add cayenne  
-    
-*   More Parmesan  
-    
-*   Cook mushrooms in white wine (or vermouth) and garlic
-*   Slightly more salt and pepper
+_Note: This lasagna can be assembled up to 24 hours in advance and refrigerated before baking. If baking from refrigerated, add about 15 minutes to the covered baking time._

@@ -1,69 +1,42 @@
+<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2007-11-14-squash,-white-bean-and-kale-ragout-formatted.md -->
 ---
 title: "Squash, White Bean and Kale Ragout"
 date: 2007-11-14
-original_link: https://adventurethyme.blogspot.com/2010/11/squash-white-bean-and-kale-ragout.html
+original_link: https://adventurethyme.blogspot.com/2007/11/squash-white-bean-and-kale-ragout.html
 ---
 
-Published by: NY Times, November 14, 2007 Time: 1 1/4 hours 
+_Hearty vegetarian stew perfect for fall_
+_Serves 6_
 
-  
+## Ingredients
 
-1 3-pound butternut squash
+| Quantity | Ingredient |
+| -------- | ---------- |
+| 2 Tbsp | olive oil |
+| 1 | medium onion, chopped |
+| 3 cloves | garlic, minced |
+| 1 | medium butternut squash, peeled and cut into 1-inch cubes (about 4 cups) |
+| 1 Tbsp | fresh sage, chopped (or 1 tsp dried) |
+| 1 tsp | dried rosemary |
+| 1/2 tsp | red pepper flakes |
+| 4 cups | vegetable broth |
+| 2 (15 oz) cans | cannellini beans, drained and rinsed |
+| 1 bunch | kale, stems removed and leaves roughly chopped (about 6 cups) |
+| 1 (14.5 oz) can | diced tomatoes |
+| 2 Tbsp | lemon juice |
+| | Salt and freshly ground black pepper to taste |
+| 1/4 cup | grated Parmesan cheese, for serving (optional) |
+| | Crusty bread, for serving |
 
-2 tablespoons unsalted butter 
+## Instructions
 
-2 tablespoons maple syrup 
+1. Heat olive oil in a large pot or Dutch oven over medium heat. Add onion and cook until softened, about 5 minutes.
+2. Add garlic and cook for another minute until fragrant.
+3. Add butternut squash, sage, rosemary, and red pepper flakes. Stir to coat the squash with oil and spices.
+4. Pour in the vegetable broth and bring to a boil. Reduce heat and simmer, partially covered, for 15 minutes, or until squash is just tender when pierced with a fork.
+5. Add the drained beans, kale, and diced tomatoes with their juice. Stir to combine.
+6. Simmer for an additional 10-15 minutes, until the kale is tender and the flavors have melded.
+7. Stir in the lemon juice and season with salt and pepper to taste.
+8. Serve hot, topped with grated Parmesan if desired, and crusty bread on the side.
 
-2 1/2 teaspoons cider vinegar 
-
-1 teaspoon kosher salt, more to taste 
-
-1 teaspoon ground black pepper 
-
-Pinch of cayenne 
-
-2 tablespoons extra virgin olive oil 
-
-4 large leeks, cleaned and chopped, white and light green parts only 
-
-2 large garlic cloves, pressed 
-
-2-3 large rosemary sprigs (remove twigs after cooking)
-
-2 15-ounce cans cannellini beans, drained and rinsed 
-
-2 cups vegetable broth 
-
-1.5 bunches kale, center ribs removed, leaves thinly sliced (about 1 1/2 bunches or 1 large farmer's market bunch) 
-
-2 ounces grated Parmigiano-Reggiano cheese (with box grater, not microplane) ( 1/2 cup), more to taste
-
-1/3 cup dried cranberries, roughly chopped, plus whole berries for garnish 
-
-  
-
-1\. Preheat oven to 425 degrees. Using a vegetable peeler or paring knife, peel pumpkin or squash. Trim stem, then halve pumpkin or squash and scoop out seeds (save for roasting if desired). Cut flesh into 1-inch cubes. 
-
-  
-
-2\. Spread cubes out on a large rimmed baking sheet. In small saucepan, combine butter or canola oil, syrup, 1 teaspoon vinegar, kosher salt, 1/2 teaspoon black pepper and cayenne. Cook, stirring, over medium-high heat until butter melts; pour mixture over squash and toss to coat evenly. Roast, tossing occasionally, until pumpkin or squash is very tender and caramelized at edges, about 30 minutes. 
-
-  
-
-3\. In a large skillet, warm olive oil over medium heat. Add leeks, garlic, rosemary and a generous pinch of salt. Cook, stirring occasionally, until leeks are very soft and not at all browned, about 15 minutes. Add beans and broth and simmer for 10 minutes. 
-
-  
-
-4\. Stir in kale, and cheese if desired. Simmer until kale is cooked down and very tender, about 10 minutes. 
-
-  
-
-5\. Stir in pumpkin or squash and chopped cranberries; season with remaining 1 1/2 teaspoons vinegar and 1/2 teaspoon black pepper. Garnish with additional cranberries and sea salt, and serve. 
-
-  
-
-Yield: 8 to 10 side-dish servings; 6 main-course servings.
-
-  
-
-Delicious; and an instant thanksgiving classic. Make sure not to skimp on the cider vinegar and maple syrup, more cayenne pepper would be easily tolerated by most.
+_Note: This ragout gets even better if made a day ahead and reheated, as the flavors have more time to develop._

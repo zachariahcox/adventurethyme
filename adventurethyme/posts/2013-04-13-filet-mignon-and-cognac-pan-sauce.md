@@ -1,51 +1,49 @@
+<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2013-04-13-filet-mignon-and-cognac-pan-sauce-formatted.md -->
 ---
-title: "Filet Mignon and Cognac pan sauce"
+title: "Filet Mignon and Cognac Pan Sauce"
 date: 2013-04-13
 original_link: https://adventurethyme.blogspot.com/2013/04/filet-mignon-and-cognac-pan-sauce.html
 ---
 
-INGREDIENTS
+_Serves 2_
 
+## Ingredients
 
+### Steaks
+| Quantity | Ingredient |
+| -------- | ---------- |
+| 2 | filet mignon steaks (6-8 oz each), about 1½ inches thick |
+| | Kosher salt |
+| | Freshly ground black pepper |
+| 1 Tbsp | vegetable oil |
+| 2 Tbsp | unsalted butter |
+| 2 | garlic cloves, smashed |
+| 2-3 sprigs | fresh thyme |
 
-*   4center cut filet mignons, 1 1/2 inches thick, 7 to 8 ounces each, dried thoroughly with paper towels
-*   4-8teaspoons olive oil (try 2t per steak to prevent burning)
-*   salt and ground pepper
+### Cognac Pan Sauce
+| Quantity | Ingredient |
+| -------- | ---------- |
+| 1 | shallot, finely minced |
+| 1/4 cup | cognac or brandy |
+| 3/4 cup | beef stock |
+| 2 Tbsp | unsalted butter, cold and cut into small pieces |
+| 1 Tbsp | fresh parsley, chopped |
+| | Salt and pepper to taste |
 
-#### INSTRUCTIONS
+## Instructions
 
-1.  1\. Place rimmed baking sheet on lower middle position in oven rack, and heat oven to 450 degrees. When oven reaches 450 degrees, heat 10-inch heavy-bottomed skillet (not nonstick) over medium or medium high heat on stovetop until very hot, about 2-3 minutes (do NOT heat on high in our stainless steel pan - the steaks will burn).
-    
-2.  2\. Meanwhile, rub each side of steaks with 1/2 or 1 teaspoon oil and sprinkle generously with salt and pepper. Place steaks in skillet and cook, without moving steaks, until well-browned and a nice crust has formed, about 3 minutes. Turn steaks with tongs and cook until well-browned and a nice crust has formed on second side, about 3 minutes longer. Remove pan from heat, and use tongs to transfer steaks to hot baking sheet in oven.
-    
-3.  3\. Roast 2 to 4 minutes for very rare (cherry red center), **4 to 6 minutes for rare** (red centers), or 6 to 8 minutes for medium-rare (pink centers). Transfer steaks to large plate; loosely tent with foil, and let rest about 5 minutes before serving.
-    
-      
-    
-    After transferring steaks to oven, proceed with the pan sauce:
-    
-      
-    
-    #### INGREDIENTS for 4 steaks
-    
-    *   2shallots or  some red onion, really minced or put through garlic press (about 1/4 cup)
-    *   1teaspoon brown sugar
-    *   1/4cup Cognac
-    *   3/4cup chicken broth
-    *   1tablespoon lemon juice
-    *   1tablespoon plus 1 teaspoon whole grain mustard
-    *   3tablespoons unsalted butter, cut into 6 pieces
-    *   2teaspoons minced fresh tarragon leaves
-    *   salt and ground pepper
-    
-    #### INSTRUCTIONS
-    
-    1.  1\. To the same skillet used to cook steaks (do not clean skillet or discard accumulated fat), add shallots and sugar off heat; using pan’s residual heat, cook, stirring frequently, until shallots are slightly softened and browned and sugar is melted, about 45 seconds.  
-        2\. Return skillet to high heat, add cognac and broth; bring to boil, scraping up browned bits on pan bottom with wooden spoon. Boil until liquid is reduced to 1/3 cup, about 4 minutes.  
-        3\. Add lemon juice and mustard; cook to blend flavors, about 1 minute longer.  
-        4\. Off heat, whisk in butter until melted and sauce is thickened and glossy. Add tarragon and season to taste with salt and pepper; spoon over steaks and serve immediately.
-        
-          
-        Notes:
-        
-        _\- This sauce comes out rather sweet and would be good over poultry or pork as well. Maybe tone this down for filet mignon: less mustard and more chicken broth._
+1. Remove steaks from refrigerator 30 minutes before cooking to bring to room temperature.
+2. Pat steaks dry with paper towels. Season generously with kosher salt and freshly ground black pepper on both sides.
+3. Heat a cast-iron skillet over high heat until very hot. Add vegetable oil.
+4. Carefully place steaks in the hot skillet and cook without moving for 3 minutes to develop a crust.
+5. Flip the steaks and add butter, garlic cloves, and thyme sprigs to the pan. Tilt the pan slightly and use a spoon to baste the steaks with the melted butter for about 2-3 minutes.
+6. For medium-rare (internal temperature of 130-135°F), cook for a total of about 5-6 minutes, depending on thickness. Adjust cooking time for different doneness levels.
+7. Transfer steaks to a plate and tent loosely with foil. Let rest for 5-10 minutes.
+8. While steaks are resting, make the sauce: Reduce heat to medium and add shallot to the same pan. Cook until softened, about 1 minute.
+9. Carefully add cognac (it may flame up, which is normal). Scrape up any browned bits from the bottom of the pan.
+10. When cognac is reduced by half, add beef stock. Bring to a simmer and reduce by half, about 3-4 minutes.
+11. Remove from heat and whisk in cold butter pieces one at a time until sauce is smooth and glossy.
+12. Stir in chopped parsley and season with salt and pepper to taste.
+13. Serve steaks with the cognac sauce spooned over the top.
+
+_Serving suggestion: Pair with roasted potatoes and asparagus for a classic steakhouse dinner._

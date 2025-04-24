@@ -1,33 +1,31 @@
+<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2011-09-28-savory-polenta-formatted.md -->
 ---
 title: "Savory Polenta"
 date: 2011-09-28
 original_link: https://adventurethyme.blogspot.com/2011/09/savory-polenta.html
 ---
 
-_4 Servings_  
-_1hr_  
-  
+_Serves 4-6 as a side dish_
 
 ## Ingredients
 
+| Quantity | Ingredient |
+| -------- | ---------- |
+| 4 cups | water or chicken broth |
+| 1 tsp | salt |
+| 1 cup | coarse cornmeal (polenta) |
+| 2 Tbsp | butter |
+| 1/2 cup | grated Parmesan cheese |
+| 1/4 tsp | freshly ground black pepper |
+| 2 Tbsp | fresh herbs (thyme, rosemary, or sage), chopped (optional) |
 
+## Instructions
 
-*   2 T olive oil
-*   3/4 cup diced red onion
-*   2 cloves garlic, crushed
-*   1 quart chicken broth (or slightly less)
-*   1 cup coarse ground cornmeal (white will make for a prettier final color)
-*   2 T unsalted butter
-*   1/2 tsp kosher salt
-*   freshly ground black pepper to taste
-*   2 ounces Parmesan, grated
+1. In a large, heavy-bottomed pot, bring water or broth to a boil. Add salt.
+2. Gradually whisk in the cornmeal in a slow, steady stream, whisking constantly to prevent lumps from forming.
+3. Reduce heat to low and cook, stirring frequently with a wooden spoon, for about 30-40 minutes. The polenta should pull away from the sides of the pot when it's done.
+4. Remove from heat and stir in butter, Parmesan cheese, pepper, and fresh herbs if using.
+5. For soft polenta: Serve immediately in bowls.
+6. For firm polenta: Pour into a greased 9x13 inch baking dish and let cool until firm. Cut into squares and sauté or grill until crispy on the outside.
 
-## Directions
-
-1.  Preheat oven to 350 degrees F.
-2.  In an oven-safe dutch oven, heat the olive oil over medium heat. Add the red onion and salt and sweat until the onions begin to turn translucent, approximately 5 minutes. Reduce the heat to low, add the garlic, and saute for 1 to 2 minutes.
-3.  In a bowl, whisk the cornmeal in 1-2 cups of the chicken stock until smooth
-4.  Turn the heat up to high, add the chicken stock and bring to a boil. Gradually add the cornmeal while continually whisking. Once you have added all of the cornmeal, cover the pot and place it in the oven. Cook for 35 to 40 minutes, stirring every 10-15 minutes to prevent lumps.
-5.  Once the mixture is creamy, remove from the oven and add the butter and pepper. Once they are incorporated, gradually add the Parmesan.
-
-Source: based on an Alton Brown recipe
+_Serving suggestion: Top with roasted vegetables, braised meat, or a simple tomato sauce._

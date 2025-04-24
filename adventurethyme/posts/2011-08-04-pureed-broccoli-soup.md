@@ -1,31 +1,36 @@
+<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2011-08-04-pureed-broccoli-soup-formatted.md -->
 ---
 title: "Pureed Broccoli Soup"
 date: 2011-08-04
 original_link: https://adventurethyme.blogspot.com/2011/08/pureed-broccoli-soup.html
 ---
 
-#### SERVES 4 TO 6
+_Serves 4-6_
 
-INGREDIENTS
+## Ingredients
 
+| Quantity | Ingredient |
+| -------- | ---------- |
+| 2 Tbsp | olive oil |
+| 1 | medium onion, chopped |
+| 2 cloves | garlic, minced |
+| 2 pounds | broccoli, stems peeled and chopped, florets separated |
+| 4 cups | vegetable or chicken broth |
+| 1/2 tsp | salt |
+| 1/4 tsp | black pepper |
+| 1/4 tsp | ground nutmeg |
+| 1/2 cup | heavy cream or half-and-half |
+| | Grated Parmesan cheese, for serving (optional) |
+| | Croutons, for serving (optional) |
 
+## Instructions
 
-*   2tablespoons unsalted butter or olive oil
-*   1medium leek (white and light green parts only), chopped
-*   2tablespoons dry sherry
-*   2   crushed garlic cloves
-*   2pounds broccoli, stalks discarded and florets cut into bite-size pieces (about 5 cups)
-*   2cups chicken broth (or vegetable broth)
-*        ground white pepper
-*   3/4cup whole milk
-*   2tablespoons minced fresh basil leaves
-
-#### INSTRUCTIONS
-
-1.  1\. Heat butter or oil in large saucepan over medium-high heat. Add leek; sauté until soft, about 5 minutes. Add garlic.  Add sherry and broccoli; stir until sherry evaporates, about 30 seconds.
-    
-2.  2\. Add broth and pepper to taste to saucepan; bring to boil. Reduce heat to simmer; cover and cook until broccoli is tender, about 10 minutes.
-    
-3.  3\. Add 1/2 cup milk; blend until very smooth with immersion blender. Cook over low heat until warmed through. If soup is too thick, stir in additional milk to thin consistency. Adjust seasonings. (Soup can be refrigerated for 3 days and reheated just before serving.)
-    
-4.  _Adapted from Cook's Illustrated._
+1. Heat olive oil in a large pot over medium heat. Add onion and cook until softened, about 5 minutes.
+2. Add garlic and cook for another 30 seconds until fragrant.
+3. Add broccoli stems, broth, salt, pepper, and nutmeg. Bring to a boil, then reduce heat and simmer for 10 minutes.
+4. Add broccoli florets and simmer for another 10 minutes, until all broccoli is very tender.
+5. Remove from heat and let cool slightly. 
+6. Using an immersion blender, puree the soup until smooth. Alternatively, transfer soup in batches to a blender and puree (be careful with hot liquid).
+7. Return soup to the pot if using a blender. Stir in cream and heat gently over low heat.
+8. Taste and adjust seasoning if needed.
+9. Serve hot, garnished with grated Parmesan and croutons if desired.

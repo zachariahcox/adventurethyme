@@ -1,50 +1,44 @@
+<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2011-01-04-chickpea,-cauliflower,-and-cabbage-curry-formatted.md -->
 ---
 title: "Chickpea, Cauliflower, and Cabbage Curry"
 date: 2011-01-04
-original_link: https://adventurethyme.blogspot.com/2011/01/chickpea-potato-and-cabbage-curry.html
+original_link: https://adventurethyme.blogspot.com/2011/01/chickpea-cauliflower-and-cabbage-curry.html
 ---
 
-_Adapted from Maddhur Jaffrey's recipe in "From Curries to Kebabs"_
+_Serves 4-6_
 
-**Ingredients
+## Ingredients
 
 | Quantity | Ingredient |
 | -------- | ---------- |
-|  | ** |
+| 2 Tbsp | vegetable oil |
+| 1 | large onion, chopped |
+| 3 cloves | garlic, minced |
+| 1 Tbsp | fresh ginger, minced |
+| 2 Tbsp | curry powder |
+| 1 tsp | ground cumin |
+| 1/2 tsp | ground turmeric |
+| 1/4 tsp | cayenne pepper (optional) |
+| 1 | small cauliflower, cut into florets |
+| 2 cups | shredded cabbage |
+| 2 (15 oz) cans | chickpeas, drained and rinsed |
+| 1 (14 oz) can | diced tomatoes |
+| 1 cup | vegetable broth |
+| 1 cup | coconut milk |
+| 1 tsp | salt, or to taste |
+| 1/4 cup | chopped fresh cilantro |
+| 1 | lime, cut into wedges (for serving) |
 
+## Instructions
 
-2 cans chickpeas, rinsed and drained
+1. Heat oil in a large pot or Dutch oven over medium heat. Add onion and sauté until softened, about 5 minutes.
+2. Add garlic and ginger, and cook for another minute until fragrant.
+3. Stir in curry powder, cumin, turmeric, and cayenne (if using). Cook for 30 seconds until spices are fragrant.
+4. Add cauliflower and cabbage. Stir to coat with the spices and cook for 2-3 minutes.
+5. Add chickpeas, diced tomatoes with their juice, and vegetable broth. Bring to a simmer.
+6. Reduce heat to low, cover, and cook for about 15 minutes, or until the cauliflower is tender.
+7. Stir in coconut milk and salt. Simmer uncovered for another 5 minutes.
+8. Taste and adjust seasoning if needed.
+9. Garnish with chopped cilantro and serve with lime wedges.
 
-1 cup chopped onion
-
-4 cloves garlic, chopped
-
-1/8 of a congo pepper (scotch bonnet, habero), without seeds, or 3 bird's-eye chilies, chopped
-
-4 T olive oil
-
-1 T hot curry powder (Bolst's)
-
-1 tsp roasted and ground cumin seeds
-
-3 medium cauliflower (or potatoes, peeled), cut into 3/4 in dice
-
-1.5 tsp salt
-
-4 cups green cabbage, cut into 1/2 in squares
-
-2 cups vegetable broth
-
-  
-
-**Directions**
-
-1\. Put the onion, garlic, peppers, and 4 T of water into a blender and blend until smooth.
-
-  
-
-2\. Pout the oil into a heavy, lidded pan and set over medium-high heat. Put in the paste from the blender. Stir and fry for 2 to 3 minutes, then reduce the heat to medium-low. Cover and cook for a further 2 to 3 minutes, removing the lid to stir frequently. Add the curry powder and roasted cumin. Stir once and put in the chickpeas cauliflower, salt, and about 2 cups vegetable broth and an additional 1 cup of water. Stir and bring to a simmer. Cover and simmer for 10-15 minutes, or until the cabbage has just softened.
-
-  
-
-_Serves 4-6_
+_Serving suggestion: Serve over basmati rice or with naan bread._

@@ -1,52 +1,43 @@
+<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2013-02-04-mixed-berry-cobbler-formatted.md -->
 ---
 title: "Mixed Berry Cobbler"
 date: 2013-02-04
 original_link: https://adventurethyme.blogspot.com/2013/02/mixed-berry-cobbler.html
 ---
 
-Biscuit Mixture:  
-2 cups all-purpose flour  
-1/2 cup sugar  
-1 tablespoon baking powder  
-1/4 cup plus 1 tablespoon powdered milk  
-3/4 teaspoon salt  
-1/2 cup vegetable shortening or lard  
-  
-Berry Mixture:   
-6 tablespoons unsalted butter or lard   
-1 1/2 cups fresh blueberries   
-1 1/2 cups fresh blackberries   
-1 cup fresh huckleberries, or raspberries   
-1 cup sugar   
-1 tablespoon cornstarch   
-2 tablespoons fresh lemon juice   
-1 teaspoon finely grated lemon zest   
-2 tablespoons whiskey   
-1 recipe Sweet Biscuit Mix, recipe follows   
-3/4 cup water Confectioners' sugar, for garnish   
-Sweetened Cream, for accompaniment  
-  
-  
-Preheat the grill to medium high, or an oven to 375 degrees F. Place the butter or lard in a small, round cast iron Dutch or camp oven (5 to 6 quarts), or large cast iron skillet and place over the grill or in the oven to melt. Remove from the heat.  
+_Serves 8_
 
-  
+## Ingredients
 
-For berries:   
-In a bowl, toss the fruit with the sugar, cornstarch, lemon juice and zest, and whiskey. Let sit for 20 to 30 minutes.  
-  
-For biscuits:  
-In a different bowl, combine all the ingredients
-
+### Berry Filling
 | Quantity | Ingredient |
 | -------- | ---------- |
-|  | except the shortening in a bowl. Cut in the shortening until the mixture resembles coarse cornmeal. Sprinkle in the water and mix until just combined. Pat out the dough into a large round and place in the bottom and up the sides of the pot or skillet. |
+| 6 cups | mixed berries (strawberries, blueberries, blackberries, raspberries) |
+| 3/4 cup | granulated sugar |
+| 2 Tbsp | cornstarch |
+| 2 Tbsp | lemon juice |
+| 1 tsp | lemon zest |
+| 1/4 tsp | ground cinnamon |
 
+### Cobbler Topping
+| Quantity | Ingredient |
+| -------- | ---------- |
+| 1 1/2 cups | all-purpose flour |
+| 1/3 cup | granulated sugar |
+| 1 1/2 tsp | baking powder |
+| 1/2 tsp | salt |
+| 1/2 cup (1 stick) | cold unsalted butter, cut into small pieces |
+| 1/2 cup | buttermilk |
+| 1 tsp | vanilla extract |
+| 1 Tbsp | coarse sugar (for sprinkling) |
 
-  
+## Instructions
 
-  
-Spoon the fruit mixture over the dough and cover with any juices. Place on the grill, or in the oven and bake until the dough is golden brown and risen, and the fruit is bubbly, 30 to 40 minutes.  
-  
-Remove from the oven and let cool for 15 minutes before serving.   
-  
-Sprinkle with confectioners' sugar and drizzle with sweetened cream, if desired.
+1. Preheat oven to 375°F. Grease a 9x13 inch baking dish.
+2. For the filling: In a large bowl, gently toss berries with sugar, cornstarch, lemon juice, lemon zest, and cinnamon until well combined. Transfer to the prepared baking dish.
+3. For the topping: In a medium bowl, whisk together flour, sugar, baking powder, and salt.
+4. Using a pastry cutter or your fingers, cut in the cold butter until the mixture resembles coarse crumbs.
+5. Stir in buttermilk and vanilla just until a shaggy dough forms.
+6. Drop spoonfuls of the dough over the berry mixture. Sprinkle with coarse sugar.
+7. Bake for 40-45 minutes, until the topping is golden brown and the filling is bubbling around the edges.
+8. Let cool for at least 15 minutes before serving. Serve warm with vanilla ice cream if desired.

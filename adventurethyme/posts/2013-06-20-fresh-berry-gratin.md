@@ -1,28 +1,35 @@
+<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2013-06-20-fresh-berry-gratin-formatted.md -->
 ---
 title: "Fresh Berry Gratin"
 date: 2013-06-20
-original_link: https://adventurethyme.blogspot.com/2013/06/ingredients-fruit-mixture-4-cups.html
+original_link: https://adventurethyme.blogspot.com/2013/06/fresh-berry-gratin.html
 ---
 
-#### INGREDIENTS
+_Serves 6_
 
+## Ingredients
 
+| Quantity | Ingredient |
+| -------- | ---------- |
+| 6 cups | mixed fresh berries (strawberries, blueberries, raspberries, blackberries) |
+| 1/4 cup | granulated sugar |
+| 1 Tbsp | fresh lemon juice |
+| 1/4 cup | orange liqueur (Grand Marnier or Cointreau) |
+| 3/4 cup | heavy cream |
+| 1/3 cup | confectioners' sugar |
+| 1 tsp | vanilla extract |
+| 1/2 cup | sour cream |
+| | Mint leaves for garnish (optional) |
 
-*   Fruit Mixture  
+## Instructions
 
-*   4 cups berries e.g. raspberries, blueberries, blackberries, and strawberries, (hulled and left whole if small, halved if medium, quartered if large)
-*   1 tablespoon sugar
-*   1 tablespoon Kirsch, Cointreau, other fruit brandy
-*   pinch table salt
-*   Topping  
+1. Preheat the broiler.
+2. Gently toss berries with granulated sugar, lemon juice, and orange liqueur in a large bowl. Let stand for 10 minutes to allow flavors to combine.
+3. Divide the berries among 6 individual gratin dishes or ramekins. Place on a baking sheet.
+4. In a medium bowl, beat the heavy cream with an electric mixer until it begins to thicken. Add confectioners' sugar and vanilla, and continue beating until soft peaks form.
+5. Fold in the sour cream until just combined.
+6. Spoon the cream mixture over the berries, spreading to cover completely.
+7. Place under the broiler until the top is lightly browned, about 1-2 minutes. Watch carefully to prevent burning.
+8. Let stand for 5 minutes before serving. Garnish with mint leaves if desired.
 
-*   3 slices bread, torn into quarters
-*   2+ tablespoons unsalted butter, softened
-*   1/4 cup packed brown sugar
-*   pinch ground cinnamon
-
-#### INSTRUCTIONS
-
-1.  1\. Adjust oven rack to lower-middle position and heat to 400 degrees. Toss fruit gently with sugar, cointreau, and salt in medium nonreactive bowl and transfer to 9-inch glass or ceramic pie pan.
-    
-2.  2\. Pulse bread, butter, sugar, and cinnamon in bowl of food processor fitted with steel blade until mixture resembles coarse crumbs, about ten 1-second pulses. Sprinkle crumbs evenly over fruit and bake until crumbs are deep golden brown and fruit is hot, 15 to 20 minutes. Cool on wire rack 5 minutes and serve.
+_Note: Can be prepared a few hours ahead. Complete steps 1-6, refrigerate, and broil just before serving._

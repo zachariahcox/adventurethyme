@@ -1,78 +1,38 @@
+<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2015-12-30-strip-steaks,-desiccated-and-seared-formatted.md -->
 ---
-title: "Strip Steaks, desiccated and seared"
+title: "Strip Steaks, Desiccated and Seared"
 date: 2015-12-30
-original_link: https://adventurethyme.blogspot.com/2015/12/dessicated-seared-strip-steaks.html
+original_link: https://adventurethyme.blogspot.com/2015/12/strip-steaks-desiccated-and-seared.html
 ---
 
-Ingredients:
+_Perfect steaks with a restaurant-quality sear_
+_Serves 2-4_
+
+## Ingredients
 
 | Quantity | Ingredient |
 | -------- | ---------- |
-|  | Boneless **room-temperature** strip steaks, 1.5 to 1.75 inches thick, cut in half to create 8oz steaks |
-|  | Kosher salt |
-|  | Ground black pepper |
-| 1 t | ablespoon vegetable oil |
-|  | Notes about meat: |
-|  | Rib-eye or filet mignon of similar thickness can be substituted for strip steaks with the following modifications |
-|  | If using filet mignon: |
+| 2-4 | strip steaks (New York strip), 1 to 1.5 inches thick |
+| | Kosher salt |
+| | Freshly ground black pepper |
+| 2 Tbsp | vegetable oil or other high smoke-point oil |
+| 2 Tbsp | butter |
+| 4 cloves | garlic, smashed |
+| 4 sprigs | fresh thyme |
 
+## Instructions
 
-*   buying a center-cut tenderloin roast and portioning it into 8oz steaks yourself will produce more consistent results. 
-*   increase the oven time by about 5 minutes.
-*   add an extra tablespoon of oil to the pan to account for leanness. 
+1. Pat steaks completely dry with paper towels. This is crucial for achieving a good crust.
+2. Season generously with kosher salt and black pepper on both sides.
+3. Place steaks uncovered on a wire rack set over a baking sheet. Refrigerate for at least 24 hours and up to 3 days. This dry-aging process helps develop flavor and texture.
+4. Remove steaks from refrigerator 1-2 hours before cooking to bring them to room temperature.
+5. Heat a large cast-iron skillet over high heat until very hot, about 5 minutes.
+6. Add oil to the skillet. When it begins to shimmer and smoke slightly, carefully place the steaks in the skillet.
+7. Sear steaks without moving them for 3-4 minutes to develop a crust.
+8. Flip steaks and add butter, garlic, and thyme to the skillet.
+9. Continue cooking for 3-4 minutes more, occasionally tilting the pan and spooning the butter mixture over the steaks.
+10. For medium-rare (130-135°F), cook until an instant-read thermometer inserted into the thickest part registers 125°F (temperature will rise during resting).
+11. Transfer steaks to a cutting board and let rest for 5-10 minutes.
+12. Slice against the grain and serve, drizzled with any remaining pan juices.
 
-    If using very lean steaks (without an external fat cap):  
-
-*   add an extra tablespoon of oil to the pan. 
-
-  
-
-INSTRUCTIONS: 
-
-  
-Leave steaks out on counter until they are **room temperature**.  
-  
-
-Adjust oven rack to middle position and heat oven to **275 degrees**. 
-
-  
-
-Pat steaks **dry** with paper towel.  
-
-  
-Season entire surface of steaks liberally with **Kosher salt and pepper**. 
-
-  
-
-Gently press sides of steaks until uniform 1.5 inches thick.
-
-  
-Place steaks on **wire rack** set in rimmed baking sheet; transfer baking sheet to oven.
-
-  
-Cook until instant-read **thermometer** inserted in center of steak registers  
-
-*   **90 to 95 degrees** for rare to medium-rare: **18 to 23 minutes**
-*   **100 to 105** degrees for medium: **25 to 30 minutes**
-
-  
-
-_NOTE: Our intent is for both flat sides to be well-browned and crusty and for the fond not to be burnt. The flat sides of the steaks shall cook for no more than **4.5 minutes** total, TOPS. The last time I used this recipe, the each side was well browned in around **45 seconds**. Perhaps my pan was too hot?_
-
-  
-
-Heat oil in 12-inch heavy-bottomed skillet over high heat until smoking: place steaks in pan. 
-
-  
-For each side, **lift meat once halfway through** to redistribute fat underneath.  
-  
-**Reduce heat if fond begins to burn**. I also tilt the pan around during cooking if the oil is starting to stick.  
-Transfer all steaks to wire cooling rack and **reduce heat under pan to medium**.  
-  
-Use tongs to stand 2 steaks at a time on their sides, producing a "**steak cube**."  
-  
-Holding steaks together in cube form, return to skillet and sear on remaining sides until browned, about **1.5 minutes** total.  
-  
-Transfer steaks back to wire cooling rack set **over a plate or cutting board** and let rest **10 minutes**, loosely tented with foil.  
-  
-Serve with **low-sodium** pan sauce.
+_Note: The extended drying time in the refrigerator is essential to achieve the perfect sear. Don't skip this step!_

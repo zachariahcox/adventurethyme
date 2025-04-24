@@ -1,71 +1,46 @@
+<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2009-07-09-stuffed-green-peppers-formatted.md -->
 ---
 title: "Stuffed Green Peppers"
 date: 2009-07-09
 original_link: https://adventurethyme.blogspot.com/2009/07/stuffed-green-peppers.html
 ---
 
-Zach and Llael went to their pantry and said,  
-"Hey! We have lots of extra Green Peppers... and meat! We should use these somehow, lets send Matt and Brian to the store to pick up ingredients
+_Classic comfort food with a savory beef and rice filling_
+_Serves 6_
+
+## Ingredients
 
 | Quantity | Ingredient |
 | -------- | ---------- |
-|  | for a dish we haven't looked up yet." |
-|  | And so, with such humble beginnings, our dinner was planned. |
-|  | After I returned from the store with assorted ingredients that I felt might be helpful for a stuffed bell pepper dish, (they most certainly were not helpful at all, but hey... at least we got to snack on blueberries!) we got to looking up a good recipe to use. Nothing that we could find was close to what we wanted, so we ended up modifying a Bell Pepper stuffed with spiced lamb recipe. |
+| 6 | large green bell peppers |
+| 1 lb | ground beef |
+| 1 | medium onion, diced |
+| 2 cloves | garlic, minced |
+| 1 cup | cooked rice |
+| 1 (14.5 oz) can | diced tomatoes, drained (reserve juice) |
+| 1 (8 oz) can | tomato sauce |
+| 1 tsp | Worcestershire sauce |
+| 1 tsp | dried oregano |
+| 1 tsp | dried basil |
+| 1/2 tsp | salt |
+| 1/4 tsp | black pepper |
+| 1 cup | shredded cheddar cheese, divided |
+| | Fresh parsley, chopped (for garnish) |
 
+## Instructions
 
-Our Ingredients
+1. Preheat oven to 350°F.
+2. Cut the tops off the bell peppers and remove the seeds and membranes. Rinse peppers under cold water.
+3. In a large pot of boiling water, blanch the peppers for 5 minutes. Drain, rinse with cold water, and set aside.
+4. In a large skillet over medium-high heat, cook the ground beef and onion until meat is browned and onion is softened, about 5-7 minutes. Drain excess fat.
+5. Add garlic and cook for another minute until fragrant.
+6. Stir in cooked rice, drained diced tomatoes, half of the tomato sauce, Worcestershire sauce, oregano, basil, salt, and pepper. Cook for 5 minutes to blend flavors.
+7. Remove from heat and stir in 1/2 cup of the shredded cheese.
+8. In a baking dish, mix the reserved tomato juice with the remaining tomato sauce. Spread in the bottom of the dish.
+9. Arrange the blanched peppers, cut side up, in the baking dish.
+10. Fill each pepper with the beef and rice mixture.
+11. Cover with foil and bake for 25-30 minutes.
+12. Remove foil, sprinkle the remaining 1/2 cup of cheese on top of the peppers, and bake uncovered for an additional 5-10 minutes until cheese is melted and bubbly.
+13. Garnish with chopped parsley before serving.
 
-Green Pepper
-
-4
-
-Brown Rice
-
-1/2 cup
-
-Onion (chopped)
-
-1
-
-Ground pork
-
-1 lbs (ish)
-
-Pepper Jack Cheese (grated)
-
-1 block
-
-Garlic Ginger Paste
-
-1 Tbl
-
-Red Pepper flakes
-
-1/2 Tea
-
-Cumin
-
-1 Tbl
-
-Cardamom
-
-1 Tea
-
-Sun Dried Tomatoes (Diced)
-
-1 can (12 oz)
-
-Fresh Cilantro (chopped)
-
-3 Tbl
-
-Brian cut the tops of the peppers and de-seeded them and then boiled them for 3 minutes until soft. While he was doing that we threw the rice into a rice cooker and started the Meat. We cooked the onions in oil until brown and then tossed the meat and spices. Once the meat was cooked we put in the ginger paste.  
-  
-Once everything was cooked we combined the meat, rice, cilantro and most of the cheese, and tomatoes and then stuffed the peppers full (And boy did we stuff them, we probably had twice as much filling as we needed, but we were making STUFFED peppers, and you certainly could not say ours were not stuffed.)  
-  
-We then baked them for 30 minutes at 350 in a casserole dish so if they fell over the filling wouldn't spread out.  
-  
-And then all that was left was the eating! We felt it wasn't spicy enough so we had some red chili sauce on the side. (And a picture or two)  
-  
-Pictures above yay!
+_Note: For a variation, you can substitute ground turkey for the beef, or add other vegetables like corn or black beans to the filling._

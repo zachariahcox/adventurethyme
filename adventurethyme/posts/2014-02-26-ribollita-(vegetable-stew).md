@@ -1,35 +1,44 @@
+<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2014-02-26-ribollita-(vegetable-stew)-formatted.md -->
 ---
 title: "Ribollita (Vegetable Stew)"
 date: 2014-02-26
-original_link: https://adventurethyme.blogspot.com/2014/02/ribollita-vegetable-stew_26.html
+original_link: https://adventurethyme.blogspot.com/2014/02/ribollita-vegetable-stew.html
 ---
 
-Serves 4  
-  
-INGREDIENTS
+_Traditional Tuscan vegetable and bread soup_
+_Serves 6-8_
+
+## Ingredients
 
 | Quantity | Ingredient |
 | -------- | ---------- |
-| 5 t | ablespoons olive oil |
-|  | 1 onion, chopped |
-| 2 c | arrots, chopped |
-| 2 c | elery stalks, chopped |
-| 1 t | ablespoon crushed garlic (4-6 cloves) |
-|  | Salt and ground black pepper |
-| 1 can | cannellini beans, drained and rinsed |
-|  | 1 15-ounce can whole peeled tomatoes (including juice) |
-| 4 cup | s vegetable broth |
-|  | 1 fresh rosemary sprig |
-|  | 2 fresh thyme sprigs |
-| 1 pound | chopped kale, collards, chard, or spinach (about 2 bags or 1 large farmer's market bag) |
-|  | 4-6 large, thick slices of toasted whole-grain bread (The denser and heartier the better to avoid it getting soggy) |
-|  | 1/4 red onion, thinly sliced |
-| 1/2 cup | freshly grated Parmesan or pecorino romano (omit to make vegan) |
-|  | INSTRUCTIONS |
-|  | 1\. Put 2 tablespoons of the oil in a large dutch oven over medium heat. When it’s hot, add onion, carrot, celery and garlic; sprinkle with salt and pepper and cook, stirring occasionally, until vegetables are soft, 5 to 10 minutes. |
-|  | 2\. Heat the oven to 500 degrees. Add beans, tomatoes, stock, rosemary and thyme to pot. Bring to a boil, then reduce heat to simmer; cover and cook 15 to 20 minutes, stirring once or twice to break up the tomatoes. |
-|  | 3\. Stir in the greens. Toast bread and lay slices on top of the stew so they cover the top. Scatter red onion slices over the top, drizzle with the remaining 3 tablespoons oil and sprinkle with Parmesan. |
-|  | 4\. Put the pot in the oven and bake until the bread, onions and cheese are browned and crisp, 10 to 15 minutes. |
-|  | _Adapted from a recipe by Mark Bittman in the NY Times_ |
+| 1/4 cup | olive oil, plus more for serving |
+| 1 | large onion, chopped |
+| 2 | carrots, diced |
+| 2 | celery stalks, diced |
+| 4 cloves | garlic, minced |
+| 1 tsp | dried oregano |
+| 1 tsp | dried thyme |
+| 1/4 tsp | red pepper flakes |
+| 1 (28 oz) can | diced tomatoes |
+| 6 cups | vegetable or chicken broth |
+| 1 | Parmesan rind (optional) |
+| 2 (15 oz) cans | cannellini beans, drained and rinsed |
+| 1 bunch | kale or cavolo nero, stems removed and leaves chopped |
+| 1/2 loaf | day-old crusty bread, torn into chunks |
+| | Salt and freshly ground black pepper |
+| | Grated Parmesan cheese for serving |
+| | Fresh basil for garnish (optional) |
 
+## Instructions
 
+1. Heat olive oil in a large pot or Dutch oven over medium heat. Add onion, carrots, and celery. Cook until vegetables are softened, about 8-10 minutes.
+2. Add garlic, oregano, thyme, and red pepper flakes. Cook for another minute until fragrant.
+3. Add diced tomatoes with their juice, broth, and Parmesan rind if using. Bring to a boil, then reduce heat and simmer for 20 minutes.
+4. Add cannellini beans and kale. Simmer for another 15-20 minutes until kale is tender.
+5. Add torn bread pieces to the soup and stir until they begin to break down and thicken the soup, about 5-10 minutes.
+6. Season with salt and pepper to taste.
+7. Remove Parmesan rind before serving.
+8. Ladle into bowls and drizzle with olive oil. Garnish with grated Parmesan cheese and fresh basil if desired.
+
+_Note: Traditional ribollita is even better the next day. The name "ribollita" means "reboiled" in Italian, as the soup was traditionally reheated the day after it was made._

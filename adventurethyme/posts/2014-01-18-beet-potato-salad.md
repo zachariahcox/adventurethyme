@@ -1,28 +1,35 @@
+<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2014-01-18-beet-potato-salad-formatted.md -->
 ---
-title: "Beet potato salad"
+title: "Beet Potato Salad"
 date: 2014-01-18
 original_link: https://adventurethyme.blogspot.com/2014/01/beet-potato-salad.html
 ---
 
-2lbs beets, diced into 1/2 in cubes  
-2 lbs new potatoes, diced into 1/2 in cubes  
-1C diced dill pickles (salt brined preferred)  
-1/2 lb carrots diced  
-2T Olive oil  
-2T minced garlic  
-2T minced dill  
-2T lemon juice  
-1/2 C Greek yogurt / mayonnaise / sour cream  
-  
-\* Toss beets, potatoes, carrots with olive oil, salt and pepper.  
-  
-\* Roast beets potatoes and carrots until cooked, tossing with spatula 3/4 way through (maybe 30 minutes total ).  Potatoes and carrots will cook faster.  
-  
-\* Combine all ingredients
+_Serves 4-6 as a side dish_
+
+## Ingredients
 
 | Quantity | Ingredient |
 | -------- | ---------- |
-|  | , adding sour cream to taste |
-|  | \* Serve with beet greens! |
+| 3 | medium beets |
+| 1 lb | small red potatoes |
+| 1/4 cup | red onion, finely chopped |
+| 2 Tbsp | fresh dill, chopped |
+| 2 Tbsp | fresh parsley, chopped |
+| 2 Tbsp | white wine vinegar |
+| 1 Tbsp | Dijon mustard |
+| 3 Tbsp | olive oil |
+| | Salt and freshly ground black pepper to taste |
 
+## Instructions
 
+1. Preheat oven to 400°F. Wrap beets individually in aluminum foil and place on a baking sheet. Roast until tender when pierced with a knife, about 45-60 minutes depending on size.
+2. Meanwhile, place the potatoes in a large pot and cover with cold water. Add a teaspoon of salt and bring to a boil. Reduce heat and simmer until potatoes are tender, about 15-20 minutes.
+3. When beets are cool enough to handle, peel and cut into 1/2-inch cubes. 
+4. Drain potatoes and when cool enough to handle, cut into 1/2-inch cubes (you can leave the skin on).
+5. In a small bowl, whisk together vinegar, mustard, olive oil, salt, and pepper to make the dressing.
+6. In a large bowl, combine beets, potatoes, red onion, dill, and parsley.
+7. Pour the dressing over the salad and toss gently to combine.
+8. Serve at room temperature or chilled.
+
+_Note: The beets will color the potatoes pink - this is normal and adds to the visual appeal of the dish._

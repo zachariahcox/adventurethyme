@@ -1,38 +1,41 @@
+<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2012-10-28-red-lentils-with-kale-formatted.md -->
 ---
-title: "Red lentils with kale"
+title: "Red Lentils with Kale"
 date: 2012-10-28
-original_link: https://adventurethyme.blogspot.com/2012/10/moong-dal-with-spinach.html
+original_link: https://adventurethyme.blogspot.com/2012/10/red-lentils-with-kale.html
 ---
 
-**Ingredients:
+_Serves 4-6_
+
+## Ingredients
 
 | Quantity | Ingredient |
 | -------- | ---------- |
-|  | ** |
-|  | _For Dal:_ |
-| 2 c | split red lentils, rinsed |
-| 3 c | water |
-| 1 t | salt |
-|  | _For vegetables:_ |
-| 4 T | oil and butter |
-| 2 t | cumin seeds |
-| 4 t | black mustard seeds |
-|  | 2 hot red chilis or red pepper flakes to taste |
-| 2 t | ginger paste |
-| 2 t | garlic paste |
-| 1 t | turmeric |
-| 1 t | ground coriander (optional) |
-| 1/2 t | ground cumin (optional) |
-|  | 1 onion, diced (optional - it's good even without) |
-| 1 l | arge bunch kale, washed and chopped |
-| 1 t | omato, diced (optional) |
-| 1 bunch | cilantro, washed and chopped (optional) |
-|  | salt to taste |
-|  | 1\. Simmer dal, salt, and water for roughly 10 minutes, on low once it comes to a boil. Skim off foam near beginning |
-|  | 2\. While this simmers, in a nonstick pan, fry butter, cumin seeds, and mustard seeds till they begin to pop. Add chilis through turmeric for a few seconds till aromatic. |
-|  | 3\. Add onion and cook till soft. |
-|  | 4\. Add kale and tomato and cook till reduced. |
-|  | 5\. Once dal is cooked, combine spinach mixture, garnish with cilantro and serve over rice. |
-|  | _Source: amalgam of a Madhur Jaffrey, Cook's Illustrated, and an eCurry recipe._ |
+| 2 Tbsp | olive oil |
+| 1 | large onion, diced |
+| 3 cloves | garlic, minced |
+| 1 Tbsp | fresh ginger, minced |
+| 1 tsp | ground cumin |
+| 1 tsp | ground coriander |
+| 1/2 tsp | turmeric |
+| 1/4 tsp | cayenne pepper (optional) |
+| 1 1/2 cups | red lentils, rinsed |
+| 4 cups | vegetable or chicken broth |
+| 1 | large bunch kale, stems removed and leaves chopped |
+| 1 | lemon, juiced |
+| 1/2 cup | chopped fresh cilantro |
+| 1 tsp | salt, or to taste |
+| | Freshly ground black pepper |
+| | Plain yogurt for serving (optional) |
 
+## Instructions
 
+1. Heat olive oil in a large pot over medium heat. Add onion and sauté until softened, about 5 minutes.
+2. Add garlic and ginger and cook for another minute until fragrant.
+3. Stir in cumin, coriander, turmeric, and cayenne (if using). Cook for 30 seconds until spices are fragrant.
+4. Add lentils and broth. Bring to a boil, then reduce heat and simmer, partially covered, for about 15-20 minutes until lentils are soft.
+5. Add the chopped kale to the pot and stir to combine. Cook for another 5 minutes until kale is wilted and tender.
+6. Stir in lemon juice, cilantro, salt, and pepper.
+7. Serve hot, topped with a dollop of yogurt if desired.
+
+_Serving suggestion: Serve with brown rice or warm naan bread._

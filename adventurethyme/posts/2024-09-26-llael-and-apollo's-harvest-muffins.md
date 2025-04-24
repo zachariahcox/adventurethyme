@@ -1,52 +1,48 @@
+<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2024-09-26-llael-and-apollo's-harvest-muffins-formatted.md -->
 ---
 title: "Llael and Apollo's Harvest Muffins"
 date: 2024-09-26
 original_link: https://adventurethyme.blogspot.com/2024/09/llael-and-apollos-harvest-muffins.html
 ---
 
-Triple batch
+_Hearty fall muffins with fruits and vegetables_
+_Makes 12 muffins_
 
 ## Ingredients
 
+| Quantity | Ingredient |
+| -------- | ---------- |
+| 1 1/2 cups | all-purpose flour |
+| 1/2 cup | whole wheat flour |
+| 1 tsp | baking soda |
+| 1 tsp | baking powder |
+| 1/2 tsp | salt |
+| 1 tsp | ground cinnamon |
+| 1/2 tsp | ground nutmeg |
+| 1/4 tsp | ground ginger |
+| 1/8 tsp | ground cloves |
+| 2 | large eggs |
+| 3/4 cup | brown sugar, packed |
+| 1/3 cup | vegetable oil |
+| 1/4 cup | apple sauce |
+| 1 tsp | vanilla extract |
+| 1 cup | grated zucchini, excess moisture squeezed out |
+| 1 cup | grated carrots |
+| 1/2 cup | diced apple |
+| 1/3 cup | dried cranberries |
+| 1/3 cup | chopped walnuts or pecans |
+| | Rolled oats for topping (optional) |
 
+## Instructions
 
-Yield:About 7 dozen mini-muffins (or 3 dozen regular muffins)
+1. Preheat oven to 375°F. Line a 12-cup muffin tin with paper liners or spray with non-stick cooking spray.
+2. In a large bowl, whisk together the all-purpose flour, whole wheat flour, baking soda, baking powder, salt, cinnamon, nutmeg, ginger, and cloves.
+3. In a separate bowl, beat the eggs, then add brown sugar, oil, apple sauce, and vanilla. Mix until well combined.
+4. Fold in the grated zucchini and carrots.
+5. Add the wet ingredients to the dry ingredients and stir just until combined. Do not overmix.
+6. Gently fold in the diced apple, dried cranberries, and nuts.
+7. Divide the batter evenly among the muffin cups. If desired, sprinkle the tops with rolled oats.
+8. Bake for 20-22 minutes, or until a toothpick inserted into the center of a muffin comes out clean.
+9. Allow muffins to cool in the pan for 5 minutes, then transfer to a wire rack to cool completely.
 
-*   3 1/3 cups whole-wheat pastry flour
-*   3 t baking soda
-*   1T ground cinnamon
-*   3/4 t salt
-*   6 eggs
-*   1 ½cup olive oil (or slightly less)
-*   3 T honey
-*   1 cup packed dark brown sugar
-*   2 apples, grated (1½ cup)
-*   1½cup grated carrots
-*   1½cup grated zucchini (or 2 cups? more is better!)
-*   1 cup raisins
-*   1½ cups unsweetened shredded coconut (optional)
-*   1 cup chopped walnuts
-
-  
-
-## Preparation
-
-1.  Step 1
-    
-    Preheat oven to 350 degrees. Grease mini-muffin tins.
-    
-2.  Step 2
-    
-    In a medium bowl, whisk together the flour, baking soda, cinnamon and salt.
-    
-3.  Step 3
-    
-    In a large bowl, combine the eggs, olive oil, honey, brown sugar, grated apple and juices and grated vegetables.
-    
-4.  Step 4
-    
-    Using a spatula, fold the dry ingredients into the wet mixture until just combined. Gently fold in the raisins and coconut.
-    
-5.  Step 5
-    
-    Fill each muffin cup ¾ of the way up, and bake for 18 minutes for mini-muffins and about 22 minutes for regular muffins.
+_Note: These muffins freeze well. Store in an airtight container at room temperature for up to 3 days, or freeze for up to 3 months._

@@ -1,81 +1,44 @@
+<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2010-09-22-chicken-canzanese-formatted.md -->
 ---
 title: "Chicken Canzanese"
 date: 2010-09-22
 original_link: https://adventurethyme.blogspot.com/2010/09/chicken-canzanese.html
 ---
 
-We served this with the polenta recipe below to absorb extra sauce, but potatoes or couscous could work too.
+_Traditional Italian chicken dish from the Abruzzo region_
+_Serves 4_
 
-#### Ingredients
+## Ingredients
 
+| Quantity | Ingredient |
+| -------- | ---------- |
+| 4 | chicken leg quarters (thigh and drumstick) |
+| 2 tsp | kosher salt |
+| 1 tsp | freshly ground black pepper |
+| 3 Tbsp | olive oil |
+| 4 cloves | garlic, minced |
+| 4 slices | prosciutto or pancetta, chopped |
+| 8 | sage leaves |
+| 2 | bay leaves |
+| 2 tsp | dried rosemary |
+| 1/4 tsp | red pepper flakes |
+| 1 cup | dry white wine |
+| 2 Tbsp | lemon juice |
+| 2 Tbsp | unsalted butter |
+| | Fresh parsley, chopped (for garnish) |
 
+## Instructions
 
-1
+1. Season chicken pieces with salt and pepper.
+2. Heat olive oil in a large, heavy-bottomed skillet or Dutch oven over medium-high heat.
+3. Place chicken pieces skin-side down in the skillet and cook without moving until skin is crisp and golden brown, about 6-8 minutes.
+4. Turn chicken pieces and cook for another 3 minutes on the other side.
+5. Reduce heat to medium. Add garlic, prosciutto or pancetta, sage leaves, bay leaves, rosemary, and red pepper flakes to the skillet. Cook for 2 minutes, stirring the aromatics but not moving the chicken.
+6. Add wine and lemon juice. Bring to a simmer, then cover and reduce heat to low.
+7. Simmer gently for about 40-45 minutes, until chicken is very tender and cooked through.
+8. Remove chicken to a serving platter and keep warm.
+9. Increase heat to medium-high and simmer the sauce until slightly reduced, about 5 minutes.
+10. Remove from heat and stir in butter until melted and incorporated.
+11. Pour the sauce over the chicken pieces and garnish with chopped parsley.
 
-tablespoon [olive oil](http://www.cooksillustrated.com/tastetests/overview.asp?docid=9996)
-
-2
-
-ounces [t](http://www.cooksillustrated.com/tastetests/overview.asp?docid=12380)hick cut bacon or proscuitto (1/4 inch thick), cut into 1/4-inch cubes
-
-6
-
-garlic cloves , sliced thin lengthwise
-
-8
-
-chicken thighs, trimmed of excess fat and skin
-
-2
-
-teaspoons [all-purpose flour](http://www.cooksillustrated.com/tastetests/overview.asp?docid=9804)
-
-2
-
-cups dry white wine
-
-1
-
-cup [low-sodium chicken broth](http://www.cooksillustrated.com/tastetests/overview.asp?docid=9993)
-
-4
-
-whole cloves
-
-2
-
-sprigs fresh rosemary (we threw it in whole, but we could try mincing it too)
-
-12
-
-fresh sage leaves
-
-3
-
-bay leaves
-
-1/2
-
-teaspoon red pepper flakes
-
-1
-
-tablespoon lemon juice
-
-2
-
-tablespoons unsalted butter
-
-1.  Instructions:
-    
-    1\. Adjust oven rack to lower-middle position and heat oven to 325 degrees. Heat 1 teaspoon oil in 12-inch heavy-bottomed ovensafe skillet over medium heat until shimmering. Add prosciutto and cook, stirring frequently, until just starting to brown, about 3 minutes. Add garlic slices and cook, stirring frequently, until garlic is golden brown, about 1½ minutes. Using slotted spoon, transfer garlic and prosciutto to small bowl and set aside.
-    
-2.  2\. Increase heat to medium-high; add remaining 2 teaspoons oil and heat until just smoking. Pat chicken dry with paper towels and season with ground black pepper. Add chicken, skin side down, and cook without moving until well browned, 5 to 8 minutes. Using tongs, turn chicken and brown on second side, about 5 minutes longer. Transfer chicken to large plate.
-    
-3.  3\. Remove all but 2 tablespoons fat from pan. Sprinkle flour over fat and cook, stirring constantly, for 1 minute. Slowly add wine and broth; bring to simmer, scraping bottom of pan with wooden spoon to loosen browned bits. Cook until liquid is slightly reduced, 3 minutes. Stir in cloves, rosemary stem, sage leaves, bay leaves, red pepper flakes, and reserved prosciutto and garlic. Nestle chicken into liquid, skin side up (skin should be above surface of liquid), and bake, uncovered, until meat offers no resistance when poked with fork but is not falling off bones, about 1 hour 15 minutes. (Check chicken after 15 minutes; broth should be barely bubbling. If bubbling vigorously, reduce oven temperature to 300 degrees.)
-    
-4.  4\. Using tongs, transfer chicken to serving platter and tent with foil. Remove and discard sage leaves, rosemary stem, cloves, and bay leaves. Place skillet over high heat and bring sauce to boil. Cook until sauce is reduced to 1¼ cups, 2 to 5 minutes. Off heat, stir in minced rosemary, lemon juice, and butter. Season to taste with salt and pepper. Pour sauce around chicken and serve.
-    
-      
-    
-    Tasty! Tender chicken, a slight spicy bite, and just delicious with Alton Brown's polenta.
+_Serving suggestion: Serve with polenta, risotto, or crusty bread to soak up the delicious sauce._

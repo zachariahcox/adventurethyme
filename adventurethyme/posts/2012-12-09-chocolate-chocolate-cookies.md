@@ -1,34 +1,36 @@
+<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2012-12-09-chocolate-chocolate-cookies-formatted.md -->
 ---
-title: "Chocolate chocolate cookies"
+title: "Chocolate Chocolate Cookies"
 date: 2012-12-09
 original_link: https://adventurethyme.blogspot.com/2012/12/chocolate-chocolate-cookies.html
 ---
 
-_AKA,_ the best cookies ever  
-  
+_Makes about 36 cookies_
 
-#### Ingredients
+## Ingredients
 
+| Quantity | Ingredient |
+| -------- | ---------- |
+| 2 cups | all-purpose flour |
+| 3/4 cup | unsweetened cocoa powder |
+| 1 tsp | baking soda |
+| 1/2 tsp | salt |
+| 1 cup (2 sticks) | unsalted butter, room temperature |
+| 2/3 cup | granulated sugar |
+| 2/3 cup | light brown sugar, packed |
+| 2 | large eggs |
+| 2 tsp | vanilla extract |
+| 2 cups | semi-sweet chocolate chips |
+| 1 cup | chopped walnuts (optional) |
 
+## Instructions
 
-*   1/3 cup granulated sugar, plus 1/2 cup for coating
-*   1 1/2 cups  all-purpose flour
-*   3/4 cup cocoa powder
-*   1/2 teaspoon baking soda
-*   1/4 teaspoon table salt
-*   1/2 cup dark corn syrup
-*   1 large egg white
-*   1 teaspoon vanilla extract
-*   12 tablespoons (1 1/2 sticks) unsalted butter, softened
-*   1/3 cup packed dark brown sugar
-*   4\-5 ounces Ghiradelli 60% cacao chocolate chips (1/2 a bag)
-
-#### Instructions
-
-1.  Adjust oven racks to upper- and lower-middle positions and heat oven to 375 degrees. Line 2 large  baking sheets with parchment paper. Place ½ cup granulated sugar in pie plate. Whisk flour, cocoa powder, baking soda, and salt together in medium bowl. Whisk corn syrup, egg white, and vanilla together in small bowl.
-2.  In stand mixer fitted with paddle attachment, beat butter, brown sugar, and remaining 1/3 cup granulated sugar at medium-high speed until light and fluffy, about 2 minutes. Reduce speed to medium-low, add corn syrup mixture, and beat until fully incorporated, about 20 seconds, scraping bowl as needed. With mixer running at low speed, add flour mixture and chopped chocolate; mix until just incorporated, about 30 seconds, scraping bowl once. Give dough final stir to ensure that no pockets of flour remain at bottom. Chill dough 30 minutes to firm slightly  
-    
-3.  Roll dough between hands into balls about 1 inch in diameter. Drop dough balls into baking dish with sugar and toss to coat. Set dough balls on prepared baking sheet, spacing about 2 inches apart. Bake, reversing position of the baking sheets halfway through baking (from top to bottom and front to back), until cookies are puffed and cracked and edges have begun to set but centers are still soft (cookies will look raw between cracks and seem underdone), 10 to 11 minutes. Do not overbake.
-4.  Cool cookies on baking sheet 5 minutes  
-      
-    _Source: adapted from Cook's Illustrated_
+1. Preheat oven to 350°F. Line baking sheets with parchment paper.
+2. In a medium bowl, whisk together flour, cocoa powder, baking soda, and salt.
+3. In a large bowl, beat butter and both sugars with an electric mixer until light and fluffy, about 3 minutes.
+4. Add eggs one at a time, beating well after each addition. Stir in vanilla.
+5. Gradually add flour mixture to butter mixture, beating on low speed until just combined.
+6. Fold in chocolate chips and walnuts (if using).
+7. Drop dough by rounded tablespoons onto prepared baking sheets, spacing cookies about 2 inches apart.
+8. Bake until cookies are set around the edges but still soft in the center, about 10-12 minutes.
+9. Let cookies cool on baking sheets for 5 minutes, then transfer to wire racks to cool completely.
