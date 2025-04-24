@@ -13,7 +13,7 @@ const turndownService = new TurndownService({
 
 // Configuration (replace with your blogspot URL)
 const blogspotUrl = 'https://adventurethyme.blogspot.com'; // Replace with your Blogspot URL
-const outputDir = './blog-github-repo';
+const outputDir = './adventurethyme';
 
 async function main() {
   console.log(`🔍 Starting conversion of ${blogspotUrl} to GitHub repository format`);
