@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2010-06-04-mexican-cornbread-formatted.md -->
 ---
 title: "Mexican Cornbread"
 date: 2010-06-04

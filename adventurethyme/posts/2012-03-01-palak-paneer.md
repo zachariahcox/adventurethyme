@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2012-03-01-palak-paneer-formatted.md -->
 ---
 title: "Palak Paneer"
 date: 2012-03-01

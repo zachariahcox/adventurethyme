@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2015-12-30-strip-steaks,-desiccated-and-seared-formatted.md -->
 ---
 title: "Strip Steaks, Desiccated and Seared"
 date: 2015-12-30

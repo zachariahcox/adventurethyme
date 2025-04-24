@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2011-01-04-chickpea,-cauliflower,-and-cabbage-curry-formatted.md -->
 ---
 title: "Chickpea, Cauliflower, and Cabbage Curry"
 date: 2011-01-04

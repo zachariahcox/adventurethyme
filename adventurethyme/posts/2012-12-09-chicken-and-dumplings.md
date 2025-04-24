@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2012-12-09-chicken-and-dumplings-formatted.md -->
 ---
 title: "Chicken and Dumplings"
 date: 2012-12-09

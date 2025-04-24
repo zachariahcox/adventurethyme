@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2011-08-04-frittata-with-grated-zucchini-formatted.md -->
 ---
 title: "Frittata with Grated Zucchini"
 date: 2011-08-04

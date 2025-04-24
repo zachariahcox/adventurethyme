@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2013-06-20-fresh-berry-gratin-formatted.md -->
 ---
 title: "Fresh Berry Gratin"
 date: 2013-06-20

@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2013-06-20-rice-salad-with-avocado-and-tomatoes-formatted.md -->
 ---
 title: "Rice Salad with Avocado and Tomatoes"
 date: 2013-06-20

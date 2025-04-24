@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2018-10-21-cannellini-beans-in-pressure-cooker-formatted.md -->
 ---
 title: "Cannellini Beans in Pressure Cooker"
 date: 2018-10-21

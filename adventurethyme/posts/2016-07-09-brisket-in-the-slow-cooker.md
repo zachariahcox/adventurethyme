@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2016-07-09-brisket-in-the-slow-cooker-formatted.md -->
 ---
 title: "Brisket in the Slow Cooker"
 date: 2016-07-09

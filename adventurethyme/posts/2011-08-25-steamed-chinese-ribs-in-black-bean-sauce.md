@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2011-08-25-steamed-chinese-ribs-in-black-bean-sauce-formatted.md -->
 ---
 title: "Steamed Chinese Ribs in Black Bean Sauce"
 date: 2011-08-25

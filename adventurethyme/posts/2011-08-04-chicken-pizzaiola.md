@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2011-08-04-chicken-pizzaiola-formatted.md -->
 ---
 title: "Chicken Pizzaiola"
 date: 2011-08-04

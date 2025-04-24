@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2018-10-27-pear-tatin-formatted.md -->
 ---
 title: "Pear Tatin"
 date: 2018-10-27

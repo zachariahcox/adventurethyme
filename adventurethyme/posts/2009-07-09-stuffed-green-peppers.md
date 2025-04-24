@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2009-07-09-stuffed-green-peppers-formatted.md -->
 ---
 title: "Stuffed Green Peppers"
 date: 2009-07-09

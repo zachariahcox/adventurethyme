@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2011-08-04-pureed-broccoli-soup-formatted.md -->
 ---
 title: "Pureed Broccoli Soup"
 date: 2011-08-04

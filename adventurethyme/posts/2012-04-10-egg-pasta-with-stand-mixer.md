@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2012-04-10-egg-pasta-with-stand-mixer-formatted.md -->
 ---
 title: "Egg Pasta with Stand Mixer"
 date: 2012-04-10

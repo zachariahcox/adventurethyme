@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2009-07-09-classic-spaghetti-and-meatballs-formatted.md -->
 ---
 title: "Classic Spaghetti and Meatballs"
 date: 2009-07-09

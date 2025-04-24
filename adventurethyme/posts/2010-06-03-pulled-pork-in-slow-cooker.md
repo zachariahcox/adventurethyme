@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2010-06-03-pulled-pork-in-slow-cooker-formatted.md -->
 ---
 title: "Pulled Pork in Slow Cooker"
 date: 2010-06-03

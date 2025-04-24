@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2020-04-19-gochujang-bibimbap-sauce-formatted.md -->
 ---
 title: "Gochujang Bibimbap Sauce"
 date: 2020-04-19

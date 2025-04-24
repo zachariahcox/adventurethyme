@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2011-08-28-okra-with-onions-(sel-bhindi)-formatted.md -->
 ---
 title: "Okra with Onions (Sel Bhindi)"
 date: 2011-08-28

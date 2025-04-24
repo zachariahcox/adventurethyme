@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2013-02-04-mixed-berry-cobbler-formatted.md -->
 ---
 title: "Mixed Berry Cobbler"
 date: 2013-02-04

@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2010-09-14-tomatillos-with-with-chicken-and-squash-formatted.md -->
 ---
 title: "Tomatillos with With Chicken and Squash"
 date: 2010-09-14

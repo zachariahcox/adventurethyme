@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2024-09-26-llael-and-apollo's-harvest-muffins-formatted.md -->
 ---
 title: "Llael and Apollo's Harvest Muffins"
 date: 2024-09-26

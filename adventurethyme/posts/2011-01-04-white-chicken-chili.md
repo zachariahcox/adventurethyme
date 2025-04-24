@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2011-01-04-white-chicken-chili-formatted.md -->
 ---
 title: "White Chicken Chili"
 date: 2011-01-04

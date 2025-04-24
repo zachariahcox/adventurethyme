@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2019-03-17-slow-cooker-butter-chicken-fixed.md -->
 ---
 title: "Slow Cooker Butter Chicken"
 date: 2019-03-17

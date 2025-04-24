@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2011-09-28-savory-polenta-formatted.md -->
 ---
 title: "Savory Polenta"
 date: 2011-09-28

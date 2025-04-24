@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2011-01-04-chicken-biryani-formatted.md -->
 ---
 title: "Chicken Biryani"
 date: 2011-01-04

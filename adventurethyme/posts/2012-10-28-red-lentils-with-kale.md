@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2012-10-28-red-lentils-with-kale-formatted.md -->
 ---
 title: "Red Lentils with Kale"
 date: 2012-10-28

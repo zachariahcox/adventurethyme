@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2025-04-19-hot-and-sour-soup-fixed.md -->
 ---
 title: "Hot and Sour Soup"
 date: 2025-04-19

@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2011-01-04-salmon-curry-formatted.md -->
 ---
 title: "Salmon Curry"
 date: 2011-01-04

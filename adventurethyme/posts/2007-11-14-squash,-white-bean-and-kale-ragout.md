@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2007-11-14-squash,-white-bean-and-kale-ragout-formatted.md -->
 ---
 title: "Squash, White Bean and Kale Ragout"
 date: 2007-11-14

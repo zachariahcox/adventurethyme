@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2010-01-26-spinach-and-mushroom-lasagna-formatted.md -->
 ---
 title: "Spinach and Mushroom Lasagna"
 date: 2010-01-26

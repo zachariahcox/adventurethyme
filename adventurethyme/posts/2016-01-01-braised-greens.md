@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2016-01-01-braised-greens-formatted.md -->
 ---
 title: "Braised Greens"
 date: 2016-01-01

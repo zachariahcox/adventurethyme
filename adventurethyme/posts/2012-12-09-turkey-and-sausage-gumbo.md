@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2012-12-09-turkey-and-sausage-gumbo-formatted.md -->
 ---
 title: "Turkey and Sausage Gumbo"
 date: 2012-12-09

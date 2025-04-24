@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2017-11-07-dmitry's-borscht-formatted.md -->
 ---
 title: "Dmitry's Borscht"
 date: 2017-11-07

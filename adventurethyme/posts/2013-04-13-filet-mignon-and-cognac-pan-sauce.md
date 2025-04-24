@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2013-04-13-filet-mignon-and-cognac-pan-sauce-formatted.md -->
 ---
 title: "Filet Mignon and Cognac Pan Sauce"
 date: 2013-04-13

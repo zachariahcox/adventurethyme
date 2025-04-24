@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2015-12-29-smoking-bishop-formatted.md -->
 ---
 title: "Smoking Bishop"
 date: 2015-12-29

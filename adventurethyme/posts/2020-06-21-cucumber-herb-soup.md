@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2020-06-21-cucumber-herb-soup-formatted.md -->
 ---
 title: "Cucumber Herb Soup"
 date: 2020-06-21

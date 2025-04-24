@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2010-09-22-chicken-canzanese-formatted.md -->
 ---
 title: "Chicken Canzanese"
 date: 2010-09-22

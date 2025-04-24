@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2024-06-30-nearly-flourless-chocolate-cake-formatted.md -->
 ---
 title: "Nearly Flourless Chocolate Cake"
 date: 2024-06-30

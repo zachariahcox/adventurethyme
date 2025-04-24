@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2014-01-18-grandma's-cornbread-stuffing-formatted.md -->
 ---
 title: "Grandma's Cornbread Stuffing"
 date: 2014-01-18

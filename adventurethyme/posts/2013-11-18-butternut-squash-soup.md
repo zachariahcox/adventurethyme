@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2013-11-18-butternut-squash-soup-formatted.md -->
 ---
 title: "Butternut Squash Soup"
 date: 2013-11-18

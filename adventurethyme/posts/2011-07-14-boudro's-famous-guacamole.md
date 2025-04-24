@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2011-07-14-boudro's-famous-guacamole-formatted.md -->
 ---
 title: "Boudro's Famous Guacamole"
 date: 2011-07-14

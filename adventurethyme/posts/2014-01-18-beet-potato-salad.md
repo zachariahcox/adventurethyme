@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2014-01-18-beet-potato-salad-formatted.md -->
 ---
 title: "Beet Potato Salad"
 date: 2014-01-18

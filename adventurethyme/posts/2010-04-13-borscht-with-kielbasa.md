@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2010-04-13-borscht-with-kielbasa-formatted.md -->
 ---
 title: "Borscht with Kielbasa"
 date: 2010-04-13

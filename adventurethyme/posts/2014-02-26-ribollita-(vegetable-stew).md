@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2014-02-26-ribollita-(vegetable-stew)-formatted.md -->
 ---
 title: "Ribollita (Vegetable Stew)"
 date: 2014-02-26

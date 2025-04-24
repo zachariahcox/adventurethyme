@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2015-12-29-vegetarian-black-beans-formatted.md -->
 ---
 title: "Vegetarian Black Beans"
 date: 2015-12-29

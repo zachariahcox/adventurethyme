@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2018-11-16-tortilla-soup-in-pressure-cooker-formatted.md -->
 ---
 title: "Tortilla Soup in Pressure Cooker"
 date: 2018-11-16

@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2014-08-10-spinach-artichoke-dip-formatted.md -->
 ---
 title: "Spinach Artichoke Dip"
 date: 2014-08-10

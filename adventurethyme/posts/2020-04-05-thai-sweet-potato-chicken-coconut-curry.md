@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2020-04-05-thai-sweet-potato-chicken-coconut-curry-formatted.md -->
 ---
 title: "Thai Sweet Potato Chicken Coconut Curry"
 date: 2020-04-05

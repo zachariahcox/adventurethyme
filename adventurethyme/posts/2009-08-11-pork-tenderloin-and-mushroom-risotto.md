@@ -1,4 +1,3 @@
-<!-- filepath: /home/zacox/code/blogspot/adventurethyme/posts/2009-08-11-pork-tenderloin-and-mushroom-risotto-formatted.md -->
 ---
 title: "Pork Tenderloin and Mushroom Risotto"
 date: 2009-08-11
