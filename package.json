@@ -1,0 +1,19 @@
+{
+  "name": "blogspot",
+  "version": "1.0.0",
+  "main": "blogspot-to-github.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jsdom": "^26.1.0",
+    "node-fetch": "^3.3.2",
+    "sanitize-filename": "^1.6.3",
+    "turndown": "^7.2.0"
+  },
+   "type": "module"
+}

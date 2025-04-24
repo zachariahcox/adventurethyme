@@ -1,0 +1,66 @@
+Here's a comprehensive prompt that would help you standardize recipe formatting from scratch:
+
+# Recipe Standardization Prompt
+
+Please help me standardize the formatting of my recipe collection to ensure a consistent, clean layout across all files. Use the following consistent format for all recipes:
+
+## Structure Requirements
+
+1. **Front Matter**: Preserve the existing YAML front matter with title, date, and original_link.
+
+2. **Recipe Notes**: Format serving info, attribution, or cooking times as italicized notes at the top (`_Note text here_`).
+
+3. **Section Headers**: Use level-2 markdown headings (`## Ingredients`, `## Instructions`) for main sections.
+
+4. **Subsections**: If needed, use level-3 markdown headings (`### For the Sauce:`, etc.) to organize ingredient groups.
+
+5. **Ingredients Table**: Format all ingredients in a proper markdown table:
+   ```
+   | Quantity | Ingredient |
+   | -------- | ---------- |
+   | 2 cups | flour |
+   | 1 tsp | salt |
+   ```
+   - Move all quantities to the left column
+   - Use "to taste" for seasonings without specific amounts
+   - Use "as needed" for garnishes or optional items
+
+6. **Instructions**: Format all steps as a clean numbered list:
+   ```
+   1. First step here.
+   2. Second step here.
+   ```
+   - Remove any prefixes like "1." or bold formatting from step numbers
+   - Each step should be clear and concise
+
+7. **Notes and Tips**: Format recipe notes or tips as italicized text at the end (`_Note: text here_`).
+
+## Example of Properly Formatted Recipe
+
+```markdown
+---
+title: "Recipe Name"
+date: YYYY-MM-DD
+original_link: https://original-link.com
+---
+
+_Serves 4-6_
+
+## Ingredients
+
+| Quantity | Ingredient |
+| -------- | ---------- |
+| 1 cup | ingredient one |
+| 2 tsp | ingredient two |
+| to taste | salt and pepper |
+
+## Instructions
+
+1. First instruction step.
+2. Second instruction step.
+3. Third instruction step.
+
+_Source: Original source attribution_
+```
+
+Please process all my recipe files in the posts directory to match this consistent format. Preserve all recipe content while improving the formatting.
