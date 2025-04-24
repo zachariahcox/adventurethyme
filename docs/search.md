@@ -19,7 +19,7 @@ permalink: /search/
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('results-container'),
     json: '{{ site.baseurl }}/search.json',
-    searchResultTemplate: '<li><a href="{url}">{title}</a> - <span class="search-date">{date}</span></li>',
+    searchResultTemplate: '<li><div class="search-result"><a href="{url}">{title}</a> - <span class="search-date">{date}</span><div class="search-snippet">{content}</div></div></li>',
     noResultsText: 'No results found',
     limit: 15,
     fuzzy: false

@@ -18,17 +18,17 @@ A collection of recipes gathered and refined over the years, from classics like 
 ## Recipe Categories
 
 ### Main Dishes
-* [Chicken Biryani]({{ '/2011/01/04/chicken-biryani.html' | relative_url }})
-* [Salmon Curry]({{ '/2011/01/04/salmon-curry.html' | relative_url }})
-* [Filet Mignon and Cognac Pan Sauce]({{ '/2013/04/13/filet-mignon-and-cognac-pan-sauce.html' | relative_url }})
-* [Pulled Pork in Slow Cooker]({{ '/2010/06/03/pulled-pork-in-slow-cooker.html' | relative_url }})
-* [Strip Steaks, Desiccated and Seared]({{ '/2015/12/30/strip-steaks,-desiccated-and-seared.html' | relative_url }})
+* [Chicken Biryani]({{ '/posts/chicken-biryani.html' | relative_url }})
+* [Salmon Curry]({{ '/posts/salmon-curry.html' | relative_url }})
+* [Filet Mignon and Cognac Pan Sauce]({{ '/posts/filet-mignon-and-cognac-pan-sauce.html' | relative_url }})
+* [Pulled Pork in Slow Cooker]({{ '/posts/pulled-pork-in-slow-cooker.html' | relative_url }})
+* [Strip Steaks, Desiccated and Seared]({{ '/posts/strip-steaks,-desiccated-and-seared.html' | relative_url }})
 
 ### Soups and Stews
-* [Butternut Squash Soup]({{ '/2013/11/18/butternut-squash-soup.html' | relative_url }})
-* [White Chicken Chili]({{ '/2011/01/04/white-chicken-chili.html' | relative_url }})
-* [Ribollita (Vegetable Stew)]({{ '/2014/02/26/ribollita-(vegetable-stew).html' | relative_url }})
-* [Borscht with Kielbasa]({{ '/2010/04/13/borscht-with-kielbasa.html' | relative_url }})
+* [Butternut Squash Soup]({{ '/posts/butternut-squash-soup.html' | relative_url }})
+* [White Chicken Chili]({{ '/posts/white-chicken-chili.html' | relative_url }})
+* [Ribollita (Vegetable Stew)]({{ '/posts/ribollita-(vegetable-stew).html' | relative_url }})
+* [Borscht with Kielbasa]({{ '/posts/borscht-with-kielbasa.html' | relative_url }})
 * [Tortilla Soup in Pressure Cooker]({{ '/2018/11/16/tortilla-soup-in-pressure-cooker.html' | relative_url }})
 
 ### Vegetarian Options
