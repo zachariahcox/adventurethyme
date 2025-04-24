@@ -13,21 +13,17 @@ exclude:
   - Gemfile.lock
 
 # Set the site's base URL
-baseurl: ""
+baseurl: "/adventurethyme"
 
 # Configure permalinks to match file structure
-permalink: /posts/:title.html
+permalink: /:title.html
 
 # Specify where Jekyll should look for posts
 collections_dir: .
-collections:
-  posts:
-    output: true
-    permalink: /posts/:name.html
 
 defaults:
   - scope:
-      path: "posts"
+      path: ""
       type: "posts"
     values:
       layout: "default"

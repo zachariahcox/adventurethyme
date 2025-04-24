@@ -6,8 +6,6 @@ layout: default
 
 A collection of recipes gathered and refined over the years, from classics like Spaghetti and Meatballs to international dishes like Palak Paneer and Thai Sweet Potato Chicken Curry.
 
-**[Search All Recipes](/search)** - Find exactly what you're looking for!
-
 ## Recent Recipes
 
 {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
