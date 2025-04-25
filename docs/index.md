@@ -27,21 +27,21 @@ A collection of recipes gathered and refined over the years, from classics like 
 * [White Chicken Chili]({{ '/posts/white-chicken-chili.html' | relative_url }})
 * [Ribollita (Vegetable Stew)]({{ '/posts/ribollita-(vegetable-stew).html' | relative_url }})
 * [Borscht with Kielbasa]({{ '/posts/borscht-with-kielbasa.html' | relative_url }})
-* [Tortilla Soup in Pressure Cooker]({{ '/2018/11/16/tortilla-soup-in-pressure-cooker.html' | relative_url }})
+* [Tortilla Soup in Pressure Cooker]({{ '/posts/tortilla-soup-in-pressure-cooker.html' | relative_url }})
 
 ### Vegetarian Options
-* [Palak Paneer]({{ '/2012/03/01/palak-paneer.html' | relative_url }})
-* [Red Lentils with Kale]({{ '/2012/10/28/red-lentils-with-kale.html' | relative_url }})
-* [Vegetarian Black Beans]({{ '/2015/12/29/vegetarian-black-beans.html' | relative_url }})
-* [Spinach and Mushroom Lasagna]({{ '/2010/01/26/spinach-and-mushroom-lasagna.html' | relative_url }})
-* [Chickpea, Cauliflower, and Cabbage Curry]({{ '/2011/01/04/chickpea,-cauliflower,-and-cabbage-curry.html' | relative_url }})
+* [Palak Paneer]({{ '/posts/palak-paneer.html' | relative_url }})
+* [Red Lentils with Kale]({{ '/posts/red-lentils-with-kale.html' | relative_url }})
+* [Vegetarian Black Beans]({{ '/posts/vegetarian-black-beans.html' | relative_url }})
+* [Spinach and Mushroom Lasagna]({{ '/posts/spinach-and-mushroom-lasagna.html' | relative_url }})
+* [Chickpea, Cauliflower, and Cabbage Curry]({{ '/posts/chickpea,-cauliflower,-and-cabbage-curry.html' | relative_url }})
 
 ### Desserts
-* [Nearly Flourless Chocolate Cake]({{ '/2024/06/30/nearly-flourless-chocolate-cake.html' | relative_url }})
-* [Mixed Berry Cobbler]({{ '/2013/02/04/mixed-berry-cobbler.html' | relative_url }})
-* [Fresh Berry Gratin]({{ '/2013/06/20/fresh-berry-gratin.html' | relative_url }})
-* [Chocolate Chocolate Cookies]({{ '/2012/12/09/chocolate-chocolate-cookies.html' | relative_url }})
-* [Pear Tatin]({{ '/2018/10/27/pear-tatin.html' | relative_url }})
+* [Nearly Flourless Chocolate Cake]({{ '/posts/nearly-flourless-chocolate-cake.html' | relative_url }})
+* [Mixed Berry Cobbler]({{ '/posts/mixed-berry-cobbler.html' | relative_url }})
+* [Fresh Berry Gratin]({{ '/posts/fresh-berry-gratin.html' | relative_url }})
+* [Chocolate Chocolate Cookies]({{ '/posts/chocolate-chocolate-cookies.html' | relative_url }})
+* [Pear Tatin]({{ '/posts/pear-tatin.html' | relative_url }})
 
 ## All Recipes
 
