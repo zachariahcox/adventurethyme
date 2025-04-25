@@ -15,16 +15,19 @@ exclude:
 # Set the site's base URL
 baseurl: "/adventurethyme"
 
-# Configure permalinks to match file structure
+# Configure permalinks for regular posts
 permalink: /:title.html
 
-# Specify where Jekyll should look for posts
-collections_dir: .
+# Define custom collections
+collections:
+  recipes:
+    output: true
+    permalink: /posts/:name.html
 
+# Set posts directory to be our recipes collection
 defaults:
   - scope:
       path: ""
-      type: "posts"
+      type: "recipes"
     values:
       layout: "default"
-      permalink: /posts/:basename.html

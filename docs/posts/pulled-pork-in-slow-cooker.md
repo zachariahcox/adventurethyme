@@ -6,12 +6,15 @@ original_link: https://adventurethyme.blogspot.com/2010/06/pulled-pork-in-slow-c
 
 ## Ingredients
 
+
 ### Meat
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 1 | bone-in pork shoulder (6-8 pound) |
 
 ### Spice Rub
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 2 T | paprika |
@@ -25,6 +28,7 @@ original_link: https://adventurethyme.blogspot.com/2010/06/pulled-pork-in-slow-c
 | 1 t | cayenne pepper |
 
 ### Sauce
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 1 C | Apple Cider Vinegar |
@@ -32,6 +36,7 @@ original_link: https://adventurethyme.blogspot.com/2010/06/pulled-pork-in-slow-c
 | 1 T | garlic |
 
 ## Instructions
+
 
 1. Mix spices for rub in a bowl.
 2. Massage spice rub into meat.

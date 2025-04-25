@@ -8,6 +8,7 @@ _Serves 8-10_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 4-5 pounds | beef brisket |
@@ -28,6 +29,7 @@ _Serves 8-10_
 | 2 Tbsp | cold water (optional, for thickening gravy) |
 
 ## Instructions
+
 
 1. Trim excess fat from brisket, leaving a thin layer on one side.
 2. Heat oil in a large skillet over medium-high heat. Brown brisket on all sides, about 3-4 minutes per side. Transfer to slow cooker.

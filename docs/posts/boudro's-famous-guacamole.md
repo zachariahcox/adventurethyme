@@ -9,6 +9,7 @@ _Serves 2-4 as an appetizer_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 1 | avocado, halved and seeded |
@@ -24,6 +25,7 @@ _Serves 2-4 as an appetizer_
 | | Tortilla chips for serving |
 
 ## Instructions
+
 
 1. In a molcajete or bowl, mash the avocado pulp.
 2. Add the roasted cumin, diced tomatoes, serrano pepper, red onion, and cilantro.

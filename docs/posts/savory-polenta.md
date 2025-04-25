@@ -8,6 +8,7 @@ _Serves 4-6 as a side dish_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 4 cups | water or chicken broth |
@@ -19,6 +20,7 @@ _Serves 4-6 as a side dish_
 | 2 Tbsp | fresh herbs (thyme, rosemary, or sage), chopped (optional) |
 
 ## Instructions
+
 
 1. In a large, heavy-bottomed pot, bring water or broth to a boil. Add salt.
 2. Gradually whisk in the cornmeal in a slow, steady stream, whisking constantly to prevent lumps from forming.

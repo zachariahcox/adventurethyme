@@ -9,6 +9,7 @@ _Serves 8-10_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 1 cup | yellow cornmeal |
@@ -28,6 +29,7 @@ _Serves 8-10_
 | 1/2 cup | diced onion |
 
 ## Instructions
+
 
 1. Preheat oven to 400°F. Grease a 9x13-inch baking dish or a 10-inch cast-iron skillet.
 2. In a large bowl, whisk together cornmeal, flour, sugar, baking powder, and salt.

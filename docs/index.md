@@ -8,9 +8,9 @@ A collection of recipes gathered and refined over the years, from classics like 
 
 ## Recent Recipes
 
-{% assign sorted_posts = site.posts | sort: 'date' | reverse %}
-{% for post in sorted_posts limit:5 %}
-* [{{ post.title }}]({{ post.url | relative_url }}) - {{ post.date | date: "%B %d, %Y" }}
+{% assign sorted_recipes = site.recipes | sort: 'date' | reverse %}
+{% for recipe in sorted_recipes limit:5 %}
+* [{{ recipe.title }}]({{ recipe.url | relative_url }}) - {{ recipe.date | date: "%B %d, %Y" }}
 {% endfor %}
 
 ## Recipe Categories
@@ -45,6 +45,6 @@ A collection of recipes gathered and refined over the years, from classics like 
 
 ## All Recipes
 
-{% for post in sorted_posts %}
-* [{{ post.title }}]({{ post.url | relative_url }}) - {{ post.date | date: "%B %d, %Y" }}
+{% for recipe in sorted_recipes %}
+* [{{ recipe.title }}]({{ recipe.url | relative_url }}) - {{ recipe.date | date: "%B %d, %Y" }}
 {% endfor %}

@@ -8,6 +8,7 @@ _Serves 6-8 as a side dish_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 1 lb | dried black beans, soaked overnight |
@@ -27,6 +28,7 @@ _Serves 6-8 as a side dish_
 | | Lime wedges for serving |
 
 ## Instructions
+
 
 1. Drain and rinse the soaked black beans.
 2. Heat olive oil in a large pot or Dutch oven over medium heat. Add onion and bell pepper, and sauté until softened, about 5-7 minutes.

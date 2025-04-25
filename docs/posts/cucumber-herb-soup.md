@@ -9,6 +9,7 @@ _Serves 4-6_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 2 lbs | cucumbers (about 4 medium), peeled, seeded, and chopped |
@@ -27,6 +28,7 @@ _Serves 4-6_
 | | Diced cucumber, fresh herbs, and a drizzle of olive oil for garnish |
 
 ## Instructions
+
 
 1. Reserve about 1/2 cup of chopped cucumber for garnish.
 2. In a blender or food processor, combine the remaining cucumbers, yogurt, sour cream, dill, mint, chives, green onions, and garlic.

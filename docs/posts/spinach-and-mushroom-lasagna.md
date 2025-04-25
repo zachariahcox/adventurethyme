@@ -9,7 +9,9 @@ _Serves 8-10_
 
 ## Ingredients
 
+
 ### Mushroom Layer
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 2 Tbsp | olive oil |
@@ -22,6 +24,7 @@ _Serves 8-10_
 | 2 Tbsp | fresh parsley, chopped |
 
 ### Spinach-Ricotta Layer
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 2 (10 oz) packages | frozen chopped spinach, thawed and squeezed dry |
@@ -34,6 +37,7 @@ _Serves 8-10_
 | 2 Tbsp | fresh basil, chopped (or 2 tsp dried) |
 
 ### Assembly
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 1 (28 oz) jar | marinara sauce |
@@ -42,6 +46,7 @@ _Serves 8-10_
 | 1/4 cup | grated Parmesan cheese |
 
 ## Instructions
+
 
 1. Preheat oven to 375°F. Lightly grease a 9x13 inch baking dish.
 2. For the mushroom layer: Heat olive oil in a large skillet over medium heat. Add onion and cook until softened, about 5 minutes.

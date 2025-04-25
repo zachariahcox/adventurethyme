@@ -9,6 +9,7 @@ _Serves 2-4_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 2-4 | strip steaks (New York strip), 1 to 1.5 inches thick |
@@ -20,6 +21,7 @@ _Serves 2-4_
 | 4 sprigs | fresh thyme |
 
 ## Instructions
+
 
 1. Pat steaks completely dry with paper towels. This is crucial for achieving a good crust.
 2. Season generously with kosher salt and black pepper on both sides.

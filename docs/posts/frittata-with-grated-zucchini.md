@@ -8,6 +8,7 @@ _Serves 4-6_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 1 | medium zucchini, grated (about 2 cups) |
@@ -24,6 +25,7 @@ _Serves 4-6_
 | 1/2 cup | crumbled feta cheese |
 
 ## Instructions
+
 
 1. Place grated zucchini in a colander and sprinkle with salt. Let sit for 10 minutes, then squeeze out excess moisture with your hands or by pressing with paper towels.
 2. In a large bowl, beat eggs with milk, and season with pepper.

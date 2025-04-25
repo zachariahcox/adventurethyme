@@ -6,6 +6,7 @@ original_link: https://adventurethyme.blogspot.com/2019/03/slow-cooker-butter-ch
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 3 T | vegetable oil |
@@ -25,11 +26,13 @@ original_link: https://adventurethyme.blogspot.com/2019/03/slow-cooker-butter-ch
 
 ## Instructions
 
+
 1. Saute onions in oil over medium-high heat until softened. Reduce heat to medium, add garlic and ginger, and cook another 2 minutes. Add garam masala, tomato paste and salt; cook and stir 2 minutes.
 2. In the slow cooker, combine the chicken pieces, tomato paste mixture, lime zest and juice, coconut milk and chicken stock. Stir everything together, cover and cook on low heat setting for about 5 hours.
 3. Remove and chop chicken pieces, blend sauce in pot with immersion blender.
 4. Add butter, cilantro, and chopped chicken back to sauce. Serve.
 
 ## Serving
+
 
 _Serve with rice and chapati._

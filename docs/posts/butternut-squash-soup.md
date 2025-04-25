@@ -8,6 +8,7 @@ _Serves 4-6_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 2 Tbsp | unsalted butter |
@@ -25,6 +26,7 @@ _Serves 4-6_
 | | Toasted pumpkin seeds for garnish (optional) |
 
 ## Instructions
+
 
 1. Melt butter in a large pot over medium heat. Add onion and sauté until softened, about 5 minutes.
 2. Add butternut squash, apples, broth, water, cinnamon, nutmeg, ginger, and cayenne (if using). Bring to a boil.

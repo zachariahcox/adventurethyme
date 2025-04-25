@@ -9,6 +9,7 @@ _Serves 6_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 6 | large green bell peppers |
@@ -27,6 +28,7 @@ _Serves 6_
 | | Fresh parsley, chopped (for garnish) |
 
 ## Instructions
+
 
 1. Preheat oven to 350°F.
 2. Cut the tops off the bell peppers and remove the seeds and membranes. Rinse peppers under cold water.

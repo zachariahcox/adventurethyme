@@ -9,6 +9,7 @@ _Serves 6-8_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 1/4 cup | olive oil, plus more for serving |
@@ -30,6 +31,7 @@ _Serves 6-8_
 | | Fresh basil for garnish (optional) |
 
 ## Instructions
+
 
 1. Heat olive oil in a large pot or Dutch oven over medium heat. Add onion, carrots, and celery. Cook until vegetables are softened, about 8-10 minutes.
 2. Add garlic, oregano, thyme, and red pepper flakes. Cook for another minute until fragrant.

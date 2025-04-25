@@ -9,6 +9,7 @@ _Makes about 1/2 cup_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 3 Tbsp | gochujang (Korean red pepper paste) |
@@ -20,6 +21,7 @@ _Makes about 1/2 cup_
 | 1 tsp | roasted sesame seeds |
 
 ## Instructions
+
 
 1. In a small bowl, combine all ingredients and whisk until well blended.
 2. Taste and adjust seasonings if needed. For a thinner sauce, add a little more water.

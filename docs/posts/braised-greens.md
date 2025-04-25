@@ -8,6 +8,7 @@ _Serves 4 as a side dish_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 2 bunches | hearty greens (collards, kale, or mustard greens) |
@@ -21,6 +22,7 @@ _Serves 4 as a side dish_
 | | Lemon wedges for serving (optional) |
 
 ## Instructions
+
 
 1. Remove the tough stems from the greens and slice the leaves into 1-inch wide strips. Wash thoroughly and drain, but leave some water clinging to the leaves.
 2. Heat olive oil in a large pot or Dutch oven over medium heat. Add garlic and red pepper flakes, and cook until garlic is fragrant but not browned, about 1 minute.

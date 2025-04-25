@@ -8,6 +8,7 @@ _Serves 8-10_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 1 cup | vegetable oil |
@@ -28,6 +29,7 @@ _Serves 8-10_
 | | Hot cooked rice for serving |
 
 ## Instructions
+
 
 1. In a large, heavy-bottomed pot or Dutch oven, heat the oil over medium heat. Add flour and stir constantly until the roux reaches a deep chocolate brown color, about 20-30 minutes.
 2. Add the onions, bell peppers, and celery to the roux and stir until vegetables begin to soften, about 5 minutes. Add garlic and cook for another minute.

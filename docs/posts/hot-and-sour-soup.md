@@ -9,6 +9,7 @@ _Adapted from Made With Lau_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 1 can | petite diced tomatoes |
@@ -34,6 +35,7 @@ _Adapted from Made With Lau_
 | | corn oil |
 
 ## Instructions
+
 
 1. Mix cornstarch and 2 T water in small bowl
 2. In dutch oven, heat oil and dried chili peppers over high heat, stirring occasionally.

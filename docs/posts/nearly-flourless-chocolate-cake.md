@@ -9,7 +9,9 @@ _Serves 8-10_
 
 ## Ingredients
 
+
 ### Cake
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 8 oz | high-quality dark chocolate (70% cocoa), chopped |
@@ -22,6 +24,7 @@ _Serves 8-10_
 | 2 Tbsp | cocoa powder |
 
 ### Ganache (Optional)
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 4 oz | dark chocolate, chopped |
@@ -31,6 +34,7 @@ _Serves 8-10_
 | | Powdered sugar, for dusting (optional) |
 
 ## Instructions
+
 
 1. Preheat oven to 325°F. Grease a 9-inch springform pan and line the bottom with parchment paper. Wrap the outside of the pan with aluminum foil to prevent leakage.
 

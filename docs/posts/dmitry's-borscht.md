@@ -9,6 +9,7 @@ _Serves 6-8_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 2 Tbsp | vegetable oil |
@@ -27,6 +28,7 @@ _Serves 6-8_
 | | Sour cream, for serving |
 
 ## Instructions
+
 
 1. Heat vegetable oil in a large pot or Dutch oven over medium heat. Add onion and sauté until translucent, about 5 minutes.
 2. Add carrots and cook for another 3-4 minutes.

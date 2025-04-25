@@ -9,7 +9,9 @@ _Serves 6_
 
 ## Ingredients
 
+
 ### Soup
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 1 Tbsp | vegetable oil |
@@ -29,6 +31,7 @@ _Serves 6_
 | 2 Tbsp | lime juice |
 
 ### Toppings
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 4 | corn tortillas, cut into thin strips |
@@ -39,6 +42,7 @@ _Serves 6_
 | | Lime wedges |
 
 ## Instructions
+
 
 1. Select "Sauté" function on the pressure cooker. Add oil and heat until shimmering.
 2. Add onion and cook until softened, about 3-4 minutes. Add garlic and jalapeño, and cook for another minute.

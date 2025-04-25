@@ -9,7 +9,9 @@ _Serves 8-10 as an appetizer_
 
 ## Ingredients
 
+
 ### Topping
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 2 slices | white bread, quartered |
@@ -17,6 +19,7 @@ _Serves 8-10 as an appetizer_
 | 1 Tbsp | unsalted butter, melted |
 
 ### Dip
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 1 (14-ounce) can | artichoke quarters |
@@ -32,6 +35,7 @@ _Serves 8-10 as an appetizer_
 | 1 pinch | cayenne pepper |
 
 ## Instructions
+
 
 1. **FOR THE TOPPING:** Pulse the bread in a food processor to coarse crumbs. Toss the bread crumbs with the Parmesan and butter.
 2. **FOR THE DIP:** Process the artichokes in a food processor until finely chopped, about 8 1-second pulses; transfer to a medium bowl.

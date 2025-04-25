@@ -8,6 +8,7 @@ _Serves 4-6_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 2 Tbsp | olive oil |
@@ -28,6 +29,7 @@ _Serves 4-6_
 | | Plain yogurt for serving (optional) |
 
 ## Instructions
+
 
 1. Heat olive oil in a large pot over medium heat. Add onion and sauté until softened, about 5 minutes.
 2. Add garlic and ginger and cook for another minute until fragrant.

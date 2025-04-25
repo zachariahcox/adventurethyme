@@ -8,7 +8,9 @@ _Serves 8_
 
 ## Ingredients
 
+
 ### Berry Filling
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 6 cups | mixed berries (strawberries, blueberries, blackberries, raspberries) |
@@ -19,6 +21,7 @@ _Serves 8_
 | 1/4 tsp | ground cinnamon |
 
 ### Cobbler Topping
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 1 1/2 cups | all-purpose flour |
@@ -31,6 +34,7 @@ _Serves 8_
 | 1 Tbsp | coarse sugar (for sprinkling) |
 
 ## Instructions
+
 
 1. Preheat oven to 375°F. Grease a 9x13 inch baking dish.
 2. For the filling: In a large bowl, gently toss berries with sugar, cornstarch, lemon juice, lemon zest, and cinnamon until well combined. Transfer to the prepared baking dish.

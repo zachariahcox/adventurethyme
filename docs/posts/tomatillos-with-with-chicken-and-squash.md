@@ -6,6 +6,7 @@ original_link: https://adventurethyme.blogspot.com/2010/09/tomatillos-with-with-
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 1 medium | boneless, skinless chicken breast (6 to 8 ounces) |
@@ -20,6 +21,7 @@ original_link: https://adventurethyme.blogspot.com/2010/09/tomatillos-with-with-
 | 1/2 cup | crumbled queso fresco |
 
 ## Instructions
+
 
 1. Fry the chicken and shred.
 2. Bring the tomatillos to a simmer in a saucepan. Simmer 10 minutes, turning them over halfway through. Drain and place in a blender. Add the chilies, chopped onion, garlic, salt and cilantro sprigs. Blend until smooth.

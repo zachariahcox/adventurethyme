@@ -9,7 +9,9 @@ _Serves 6_
 
 ## Ingredients
 
+
 ### Meatballs
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 1 lb | ground beef |
@@ -25,6 +27,7 @@ _Serves 6_
 | 2 Tbsp | olive oil (for frying) |
 
 ### Sauce
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 2 Tbsp | olive oil |
@@ -40,6 +43,7 @@ _Serves 6_
 | | Salt and pepper to taste |
 
 ### For Serving
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 1 lb | spaghetti |
@@ -47,6 +51,7 @@ _Serves 6_
 | | Grated Parmesan cheese |
 
 ## Instructions
+
 
 1. For the meatballs: In a large bowl, combine ground beef, ground pork, breadcrumbs, Parmesan, parsley, eggs, garlic, oregano, salt, and pepper. Mix gently with your hands until just combined, being careful not to overmix.
 2. Form the mixture into 1.5-inch meatballs (about 24 meatballs).

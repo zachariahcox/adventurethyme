@@ -8,6 +8,7 @@ _Serves 6_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 6 cups | mixed fresh berries (strawberries, blueberries, raspberries, blackberries) |
@@ -21,6 +22,7 @@ _Serves 6_
 | | Mint leaves for garnish (optional) |
 
 ## Instructions
+
 
 1. Preheat the broiler.
 2. Gently toss berries with granulated sugar, lemon juice, and orange liqueur in a large bowl. Let stand for 10 minutes to allow flavors to combine.

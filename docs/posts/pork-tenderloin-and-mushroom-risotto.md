@@ -9,7 +9,9 @@ _Serves 4_
 
 ## Ingredients
 
+
 ### Pork Tenderloin
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 1 (1 to 1.5 lb) | pork tenderloin |
@@ -21,6 +23,7 @@ _Serves 4_
 | 1/2 tsp | freshly ground black pepper |
 
 ### Mushroom Risotto
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 6 cups | chicken broth |
@@ -37,7 +40,9 @@ _Serves 4_
 
 ## Instructions
 
+
 ### For the Pork Tenderloin
+
 1. Preheat oven to 425°F.
 2. In a small bowl, combine rosemary, thyme, garlic, salt, and pepper.
 3. Rub the pork tenderloin with olive oil, then coat evenly with the herb mixture.
@@ -46,6 +51,7 @@ _Serves 4_
 6. Remove from the oven, tent with foil, and let rest for 10 minutes before slicing.
 
 ### For the Mushroom Risotto
+
 1. In a saucepan, bring the chicken broth to a simmer, then reduce heat to low to keep warm.
 2. In a large, heavy-bottomed pot or Dutch oven, heat olive oil and butter over medium heat.
 3. Add onion and cook until translucent, about 3-4 minutes.
@@ -58,6 +64,7 @@ _Serves 4_
 10. Cover and let rest for 2 minutes before serving.
 
 ### To Serve
+
 1. Slice the pork tenderloin into medallions.
 2. Spoon the risotto onto plates and arrange the pork slices on top or alongside.
 3. Garnish with additional parsley and Parmesan if desired.

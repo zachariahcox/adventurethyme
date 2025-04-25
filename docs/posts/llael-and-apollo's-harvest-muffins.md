@@ -9,6 +9,7 @@ _Makes 12 muffins_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 1 1/2 cups | all-purpose flour |
@@ -33,6 +34,7 @@ _Makes 12 muffins_
 | | Rolled oats for topping (optional) |
 
 ## Instructions
+
 
 1. Preheat oven to 375°F. Line a 12-cup muffin tin with paper liners or spray with non-stick cooking spray.
 2. In a large bowl, whisk together the all-purpose flour, whole wheat flour, baking soda, baking powder, salt, cinnamon, nutmeg, ginger, and cloves.

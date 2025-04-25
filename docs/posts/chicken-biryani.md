@@ -9,7 +9,9 @@ _Serves 8 (with rice)_
 
 ## Ingredients
 
+
 ### Marinade
+
 | Quantity | Ingredient |
 | --- | --- |
 | 1 cup | plain yogurt |
@@ -22,6 +24,7 @@ _Serves 8 (with rice)_
 | 2 pounds | skinless boneless chicken thighs, quartered |
 
 ### Rice
+
 | Quantity | Ingredient |
 | --- | --- |
 | 2 cups | basmati rice |
@@ -33,6 +36,7 @@ _Serves 8 (with rice)_
 | 2 | bay leaves |
 
 ### Other
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 4 | medium large onions |
@@ -46,6 +50,7 @@ _Serves 8 (with rice)_
 | | golden raisins (optional) |
 
 ## Instructions
+
 
 1. Combine yogurt, garlic, ginger, salt, coriander, cumin, and cayenne. Add chicken, coat thoroughly with marinade, cover and refrigerate 2 hours or overnight.
 2. Finely slice onions. Sauté in vegetable oil until caramelized (30 min or more over med high heat).

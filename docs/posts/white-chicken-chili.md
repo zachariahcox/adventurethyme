@@ -8,6 +8,7 @@ _Serves 6_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 1 pound | boneless, skinless chicken breasts, cut into 1/2-inch pieces |
@@ -23,6 +24,7 @@ _Serves 6_
 | | Fresh cilantro, chopped (for garnish) |
 
 ## Instructions
+
 
 1. In a large pot or Dutch oven, sauté chicken, onion, and garlic until chicken is no longer pink and onions are translucent.
 2. Add cumin, oregano, and red pepper flakes. Stir to combine and cook for 1 minute until fragrant.

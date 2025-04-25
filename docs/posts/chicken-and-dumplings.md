@@ -8,7 +8,9 @@ _Serves 6_
 
 ## Ingredients
 
+
 ### Stew
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 3 pounds | bone-in, skin-on chicken thighs |
@@ -29,6 +31,7 @@ _Serves 6_
 | 1 cup | frozen peas |
 
 ### Dumplings
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 2 cups | all-purpose flour |
@@ -40,6 +43,7 @@ _Serves 6_
 | 1 cup | milk |
 
 ## Instructions
+
 
 1. Season chicken with salt and pepper. In a large Dutch oven, heat oil over medium-high heat. Brown chicken on both sides, about 5 minutes per side. Remove to a plate.
 2. Reduce heat to medium and add butter to the pot. Add onion, carrots, and celery. Cook until vegetables begin to soften, about 5 minutes.

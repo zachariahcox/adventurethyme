@@ -8,6 +8,7 @@ _Serves 4_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 1 pound | fresh spinach, washed |
@@ -29,6 +30,7 @@ _Serves 4_
 | 2 Tbsp | chopped fresh cilantro (for garnish) |
 
 ## Instructions
+
 
 1. Blanch spinach in boiling water for 2-3 minutes. Drain and transfer to a bowl of ice water to stop the cooking process.
 2. Drain the cooled spinach and blend in a food processor until smooth. Set aside.

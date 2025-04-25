@@ -9,6 +9,7 @@ _Serves 6-8_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 2 Tbsp | vegetable oil |
@@ -30,6 +31,7 @@ _Serves 6-8_
 | 2 Tbsp | fresh parsley, chopped, for garnish |
 
 ## Instructions
+
 
 1. Heat oil in a large pot or Dutch oven over medium heat. Add onion, carrots, and celery. Sauté until vegetables begin to soften, about 5-7 minutes.
 2. Add garlic and cook for another minute until fragrant.

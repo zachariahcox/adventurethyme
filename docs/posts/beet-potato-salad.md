@@ -8,6 +8,7 @@ _Serves 4-6 as a side dish_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 3 | medium beets |
@@ -21,6 +22,7 @@ _Serves 4-6 as a side dish_
 | | Salt and freshly ground black pepper to taste |
 
 ## Instructions
+
 
 1. Preheat oven to 400°F. Wrap beets individually in aluminum foil and place on a baking sheet. Roast until tender when pierced with a knife, about 45-60 minutes depending on size.
 2. Meanwhile, place the potatoes in a large pot and cover with cold water. Add a teaspoon of salt and bring to a boil. Reduce heat and simmer until potatoes are tender, about 15-20 minutes.

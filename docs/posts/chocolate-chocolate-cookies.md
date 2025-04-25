@@ -8,6 +8,7 @@ _Makes about 36 cookies_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 2 cups | all-purpose flour |
@@ -23,6 +24,7 @@ _Makes about 36 cookies_
 | 1 cup | chopped walnuts (optional) |
 
 ## Instructions
+
 
 1. Preheat oven to 350°F. Line baking sheets with parchment paper.
 2. In a medium bowl, whisk together flour, cocoa powder, baking soda, and salt.

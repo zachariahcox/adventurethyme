@@ -9,6 +9,7 @@ _Makes about 6 cups of cooked beans_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 1 lb (2 cups) | dried cannellini beans, rinsed and picked over |
@@ -22,6 +23,7 @@ _Makes about 6 cups of cooked beans_
 | | Fresh ground black pepper |
 
 ## Instructions
+
 
 1. Place the rinsed beans in the pressure cooker insert.
 2. Add water, onion, garlic, bay leaves, rosemary, and olive oil. Do not add salt at this stage.

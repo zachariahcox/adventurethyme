@@ -9,6 +9,7 @@ _Serves 4-6_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 2 Tbsp | coconut oil |
@@ -30,6 +31,7 @@ _Serves 4-6_
 | | Lime wedges, for serving |
 
 ## Instructions
+
 
 1. Heat coconut oil in a large pot or Dutch oven over medium heat. Add onion and cook until softened, about 5 minutes.
 2. Add garlic and ginger, and cook for another minute until fragrant.

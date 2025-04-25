@@ -8,6 +8,7 @@ _Serves 4-6 as a side dish_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 2 cups | cooked long-grain rice, cooled |
@@ -24,6 +25,7 @@ _Serves 4-6 as a side dish_
 | | Salt and pepper to taste |
 
 ## Instructions
+
 
 1. In a large bowl, combine the cooled rice, diced avocado, cherry tomatoes, cucumber, red onion, and cilantro.
 2. In a small bowl, whisk together lime juice, olive oil, Dijon mustard, garlic, and cumin to make the dressing.

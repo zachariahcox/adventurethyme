@@ -8,6 +8,7 @@ _Serves 4_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 4 | boneless, skinless chicken breasts |
@@ -24,6 +25,7 @@ _Serves 4_
 | 1/4 cup | grated Parmesan cheese |
 
 ## Instructions
+
 
 1. Preheat oven to 400°F.
 2. Season chicken breasts with salt and pepper on both sides.

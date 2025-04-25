@@ -8,6 +8,7 @@ _Serves 4-6_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 2 Tbsp | olive oil |
@@ -23,6 +24,7 @@ _Serves 4-6_
 | | Croutons, for serving (optional) |
 
 ## Instructions
+
 
 1. Heat olive oil in a large pot over medium heat. Add onion and cook until softened, about 5 minutes.
 2. Add garlic and cook for another 30 seconds until fragrant.

@@ -9,6 +9,7 @@ _Serves 6_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 2 Tbsp | olive oil |
@@ -28,6 +29,7 @@ _Serves 6_
 | | Crusty bread, for serving |
 
 ## Instructions
+
 
 1. Heat olive oil in a large pot or Dutch oven over medium heat. Add onion and cook until softened, about 5 minutes.
 2. Add garlic and cook for another minute until fragrant.

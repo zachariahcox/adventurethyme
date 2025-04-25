@@ -9,6 +9,7 @@ _Serves 8_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 6-7 | firm but ripe pears (Bosc or Anjou work well) |
@@ -22,6 +23,7 @@ _Serves 8_
 | | Vanilla ice cream or whipped cream, for serving |
 
 ## Instructions
+
 
 1. Peel, halve, and core the pears. Toss with lemon juice to prevent browning.
 2. In a 10-inch cast-iron or oven-safe skillet, melt the butter over medium heat. Add sugar and cook, stirring occasionally, until it dissolves and turns amber, about 5-7 minutes.

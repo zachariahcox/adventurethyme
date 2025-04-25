@@ -8,6 +8,7 @@ _Serves 4-6_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 2 Tbsp | vegetable oil |
@@ -29,6 +30,7 @@ _Serves 4-6_
 | 1 | lime, cut into wedges (for serving) |
 
 ## Instructions
+
 
 1. Heat oil in a large pot or Dutch oven over medium heat. Add onion and sauté until softened, about 5 minutes.
 2. Add garlic and ginger, and cook for another minute until fragrant.

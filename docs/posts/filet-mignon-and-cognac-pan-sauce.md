@@ -8,7 +8,9 @@ _Serves 2_
 
 ## Ingredients
 
+
 ### Steaks
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 2 | filet mignon steaks (6-8 oz each), about 1½ inches thick |
@@ -20,6 +22,7 @@ _Serves 2_
 | 2-3 sprigs | fresh thyme |
 
 ### Cognac Pan Sauce
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 1 | shallot, finely minced |
@@ -30,6 +33,7 @@ _Serves 2_
 | | Salt and pepper to taste |
 
 ## Instructions
+
 
 1. Remove steaks from refrigerator 30 minutes before cooking to bring to room temperature.
 2. Pat steaks dry with paper towels. Season generously with kosher salt and freshly ground black pepper on both sides.

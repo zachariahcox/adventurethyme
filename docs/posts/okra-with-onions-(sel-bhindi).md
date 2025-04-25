@@ -8,6 +8,7 @@ _Serves 4 as a side dish_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 1 pound | fresh okra |
@@ -25,6 +26,7 @@ _Serves 4 as a side dish_
 | 2 Tbsp | chopped fresh cilantro |
 
 ## Instructions
+
 
 1. Wash okra and pat completely dry with paper towels. Trim the ends and cut into 1/2-inch pieces.
 2. Heat oil in a large skillet over medium-high heat. Add cumin seeds and let them sizzle for about 30 seconds until fragrant.

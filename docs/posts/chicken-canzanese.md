@@ -9,6 +9,7 @@ _Serves 4_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 4 | chicken leg quarters (thigh and drumstick) |
@@ -27,6 +28,7 @@ _Serves 4_
 | | Fresh parsley, chopped (for garnish) |
 
 ## Instructions
+
 
 1. Season chicken pieces with salt and pepper.
 2. Heat olive oil in a large, heavy-bottomed skillet or Dutch oven over medium-high heat.

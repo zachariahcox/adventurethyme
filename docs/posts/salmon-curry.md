@@ -8,6 +8,7 @@ _Serves 3-4_
 
 ## Ingredients
 
+
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 1 lb | salmon fillets |
@@ -25,6 +26,7 @@ _Serves 3-4_
 | 2 Tbsp | chopped cilantro |
 
 ## Instructions
+
 
 1. Place salmon in a baking dish and sprinkle with salt. Set aside while preparing sauce.
 2. Heat oil in large skillet over medium-high heat. Sauté onion until soft. Add curry powder, garam masala, black pepper, and cayenne (if desired). Stir for 30 seconds until spices are fragrant.
