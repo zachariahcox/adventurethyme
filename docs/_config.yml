@@ -19,15 +19,15 @@ baseurl: "/adventurethyme"
 permalink: /:title.html
 
 # Define custom collections
-collections:
-  recipes:
-    output: true
-    permalink: /posts/:name.html
+collections_dir: .
+include: ['posts']
 
-# Set posts directory to be our recipes collection
+# Set defaults for pages in posts directory
 defaults:
   - scope:
-      path: ""
-      type: "recipes"
+      path: "posts"
+      type: "pages"
+    values:
+      layout: "default"
     values:
       layout: "default"
