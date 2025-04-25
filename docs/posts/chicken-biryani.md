@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Chicken Biryani"
 date: 2011-01-04
 original_link: https://adventurethyme.blogspot.com/2011/01/chicken-biryani.html
@@ -10,7 +11,7 @@ _Serves 8 (with rice)_
 
 ### Marinade
 | Quantity | Ingredient |
-| -------- | ---------- |
+| --- | --- |
 | 1 cup | plain yogurt |
 | 3 | garlic cloves, pressed |
 | 1/4 cup | chopped fresh ginger (about 3 inches) |
@@ -22,7 +23,7 @@ _Serves 8 (with rice)_
 
 ### Rice
 | Quantity | Ingredient |
-| -------- | ---------- |
+| --- | --- |
 | 2 cups | basmati rice |
 | 4 cups | chicken stock |
 | 2 tsp | salt |
