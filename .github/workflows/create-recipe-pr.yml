@@ -98,10 +98,10 @@ jobs:
 
             `;
 
-            if (description && description !== '_No response_') {
+            if (description) {
               content += `_${description}_\n`;
             }
-            if (servings && servings !== '_No response_') {
+            if (servings) {
               content += `_${servings}_\n`;
             }
             content += `
@@ -110,14 +110,11 @@ jobs:
             ${ingredientsTable}`;
 
             if (instructionsList) {
-              content += `## Instructions
-
-            ${instructionsList}`;
+              content += `## Instructions\n\n${instructionsList}\n\n`;
             }
 
             if (notes) {
-              content += `## Notes
-            ${notes}`;
+              content += `## Notes\n\n${notes}\n\n`;
             }
 
             // Clean up the content (remove leading spaces from template literals)
