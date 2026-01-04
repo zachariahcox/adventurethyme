@@ -19,13 +19,18 @@ _2 cups_
 | 1/4 tsp | salt |
 | 3 | eggs (large) |
 | 1 | egg extra yolk (maybe?) |
+
+
 ## Instructions
 
 1. juice and zest lemons
 2. whisk together everything
 3. whisking constantly, cook over low heat until mixuture starts to coat back of spoon
 4. Strain out any scrambled egg bits if needed.
+
+
 ## Notes
+
 Try replacing lemons with limes.
 
 We've added berries before to turn it pink.
