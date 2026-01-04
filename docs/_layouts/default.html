@@ -38,6 +38,17 @@
 
       {% if page.title %}
         <h1 class="page-title">{{ page.title }}</h1>
+        <div class="recipe-meta">
+          {%- if page.date %}
+          <span class="meta-item"><strong>Date:</strong> {{ page.date | date: "%B %d, %Y" }}</span>
+          {%- endif %}
+          {%- if page.contributor %}
+          <span class="meta-item"><strong>Contributor:</strong> {{ page.contributor }}</span>
+          {%- endif %}
+          {%- if page.original_link %}
+          <span class="meta-item"><a href="{{ page.original_link }}">Original Post</a></span>
+          {%- endif %}
+        </div>
       {% endif %}
 
       {{ content }}
@@ -102,6 +113,24 @@
       
       #results-container li:hover {
         background: #f0f0f0;
+      }
+
+      /* Recipe metadata styles */
+      .recipe-meta {
+        margin: 0.5em 0 1.5em 0;
+        padding: 0.75em 0;
+        border-bottom: 1px solid #e8e8e8;
+        font-size: 0.9em;
+        color: #666;
+      }
+
+      .recipe-meta .meta-item {
+        display: inline-block;
+        margin-right: 1.5em;
+      }
+
+      .recipe-meta a {
+        color: #4183c4;
       }
     </style>
   </body>
