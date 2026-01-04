@@ -2,7 +2,7 @@ name: Create Recipe PR
 
 on:
   issues:
-    types: [opened]
+    types: [opened, labeled]
 
 jobs:
   create-recipe-pr:
