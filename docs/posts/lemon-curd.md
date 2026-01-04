@@ -1,7 +1,7 @@
 ---
 title: "Lemon Curd"
 date: 2026-01-04
-contributor: zachariahcox
+contributor: @zachariahcox
 ---
 
 _Just like mom used to make!_
