@@ -18,7 +18,7 @@ _2 cups_
 | 1 tsp | vanilla |
 | 1/4 tsp | salt |
 | 3 | eggs (large) |
-| 1 | egg extra yolk (needs review) |
+| 1 | egg extra yolk (maybe?) |
 ## Instructions
 
 1. juice and zest lemons
