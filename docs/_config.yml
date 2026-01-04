@@ -29,5 +29,3 @@ defaults:
       type: "pages"
     values:
       layout: "default"
-    values:
-      layout: "default"
