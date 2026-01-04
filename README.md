@@ -1,6 +1,7 @@
 # Adventure Thyme Recipe Blog
 
-A collection of recipes transformed from a Blogspot blog into a clean, well-organized GitHub Pages site using GitHub Copilot.
+A recipe blog. 
+Original content was hosted here: adventurethyme.blogspot.com
 
 ## 📚 Repository Structure
 
