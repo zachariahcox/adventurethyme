@@ -3,15 +3,15 @@ name: Create Recipe PR
 on:
   issues:
     types: [opened, labeled]
+permissions:
+    contents: write
+    pull-requests: write
+    issues: write
 
 jobs:
   create-recipe-pr:
     if: contains(github.event.issue.labels.*.name, 'suggestion')
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      pull-requests: write
-      issues: write
 
     steps:
       - name: Checkout repository
@@ -129,31 +129,39 @@ jobs:
             core.setOutput('issue_number', issueNumber);
 
       - name: Create branch and recipe file
+        env:
+          RECIPE_CONTENT: ${{ steps.parse-issue.outputs.content }}
+          RECIPE_TITLE: ${{ steps.parse-issue.outputs.recipe_title }}
+          RECIPE_FILENAME: ${{ steps.parse-issue.outputs.filename }}
+          ISSUE_NUMBER: ${{ steps.parse-issue.outputs.issue_number }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          BRANCH_NAME="recipe/issue-${{ steps.parse-issue.outputs.issue_number }}-${{ steps.parse-issue.outputs.filename }}"
+          BRANCH_NAME="recipe/issue-${ISSUE_NUMBER}"
 
           git checkout -b "$BRANCH_NAME"
 
-          cat > "docs/posts/${{ steps.parse-issue.outputs.filename }}.md" << 'RECIPE_EOF'
-          ${{ steps.parse-issue.outputs.content }}
-          RECIPE_EOF
+          # Write content safely using printf to avoid heredoc injection
+          printf '%s\n' "$RECIPE_CONTENT" > "docs/posts/${RECIPE_FILENAME}.md"
 
-          git add "docs/posts/${{ steps.parse-issue.outputs.filename }}.md"
-          git commit -m "Add recipe: ${{ steps.parse-issue.outputs.recipe_title }}"
+          git add "docs/posts/${RECIPE_FILENAME}.md"
+          git commit -m "Add recipe: ${RECIPE_TITLE}"
           git push origin "$BRANCH_NAME"
 
           echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
 
       - name: Create Pull Request
         uses: actions/github-script@v7
+        env:
+          RECIPE_TITLE: ${{ steps.parse-issue.outputs.recipe_title }}
+          RECIPE_FILENAME: ${{ steps.parse-issue.outputs.filename }}
+          ISSUE_NUMBER: ${{ steps.parse-issue.outputs.issue_number }}
         with:
           script: |
-            const issueNumber = ${{ steps.parse-issue.outputs.issue_number }};
-            const recipeTitle = `${{ steps.parse-issue.outputs.recipe_title }}`;
-            const filename = `${{ steps.parse-issue.outputs.filename }}`;
+            const issueNumber = parseInt(process.env.ISSUE_NUMBER, 10);
+            const recipeTitle = process.env.RECIPE_TITLE;
+            const filename = process.env.RECIPE_FILENAME;
             const branchName = process.env.BRANCH_NAME;
 
             const pr = await github.rest.pulls.create({
