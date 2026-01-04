@@ -1,0 +1,175 @@
+name: Create Recipe PR
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  create-recipe-pr:
+    if: contains(github.event.issue.labels.*.name, 'suggestion')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+      issues: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Parse issue and create recipe file
+        uses: actions/github-script@v7
+        id: parse-issue
+        with:
+          script: |
+            const issueBody = context.payload.issue.body;
+            const issueTitle = context.payload.issue.title;
+            const issueNumber = context.payload.issue.number;
+            const contributor = context.payload.issue.user.login;
+
+            // Extract recipe title from issue title (remove "[Recipe]: " prefix)
+            const recipeTitle = issueTitle.replace(/^\[Recipe\]:\s*/, '').trim();
+
+            // Helper function to extract section content
+            function extractSection(body, sectionName) {
+              const regex = new RegExp(`### ${sectionName}\\s*([\\s\\S]*?)(?=###|$)`, 'i');
+              const match = body.match(regex);
+              return match ? match[1].trim() : '';
+            }
+
+            const description = extractSection(issueBody, 'Description');
+            const servings = extractSection(issueBody, 'Servings');
+            const ingredientsRaw = extractSection(issueBody, 'Ingredients');
+            const instructionsRaw = extractSection(issueBody, 'Instructions');
+            const notes = extractSection(issueBody, 'Notes');
+
+            // Parse ingredients into table format
+            const ingredientLines = ingredientsRaw
+              .split('\n')
+              .map(line => line.trim())
+              .filter(line => line && !line.startsWith('_No response_'));
+
+            let ingredientsTable = '| Quantity | Ingredient |\n| -------- | ---------- |\n';
+            for (const line of ingredientLines) {
+              // Handle "quantity | ingredient" format
+              if (line.includes('|')) {
+                const [qty, ing] = line.split('|').map(s => s.trim());
+                ingredientsTable += `| ${qty} | ${ing} |\n`;
+              } else {
+                // Fallback: put the whole line as ingredient
+                ingredientsTable += `| | ${line} |\n`;
+              }
+            }
+
+            // Parse instructions into numbered list (split on blank lines)
+            const instructionSteps = instructionsRaw
+              .split(/\n\s*\n/)
+              .map(step => step.trim())
+              .filter(step => step && !step.startsWith('_No response_'));
+
+            let instructionsList = '';
+            for (let i = 0; i < instructionSteps.length; i++) {
+              // Remove any existing numbering and normalize whitespace within step
+              const cleanStep = instructionSteps[i]
+                .replace(/^\d+\.\s*/, '')
+                .split('\n')
+                .map(line => line.trim())
+                .join(' ');
+              instructionsList += `${i + 1}. ${cleanStep}\n`;
+            }
+
+            // Generate filename from title
+            const filename = recipeTitle
+              .toLowerCase()
+              .replace(/[^a-z0-9\s-]/g, '')
+              .replace(/\s+/g, '-')
+              .replace(/-+/g, '-')
+              .trim();
+
+            // Get today's date
+            const today = new Date().toISOString().split('T')[0];
+
+            // Build the markdown content
+            let content = `---
+            title: "${recipeTitle}"
+            date: ${today}
+            contributor: ${contributor}
+            ---
+
+            `;
+
+            if (description && description !== '_No response_') {
+              content += `_${description}_\n`;
+            }
+            if (servings && servings !== '_No response_') {
+              content += `_${servings}_\n`;
+            }
+            content += `
+            ## Ingredients
+
+            ${ingredientsTable}`;
+
+            if (instructionsList) {
+              content += `## Instructions
+
+            ${instructionsList}`;
+            }
+
+            if (notes) {
+              content += `## Notes
+            ${notes}`;
+            }
+
+            // Clean up the content (remove leading spaces from template literals)
+            content = content.split('\n').map(line => line.replace(/^\s{12}/, '')).join('\n');
+
+            core.setOutput('filename', filename);
+            core.setOutput('content', content);
+            core.setOutput('recipe_title', recipeTitle);
+            core.setOutput('issue_number', issueNumber);
+
+      - name: Create branch and recipe file
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          BRANCH_NAME="recipe/issue-${{ steps.parse-issue.outputs.issue_number }}-${{ steps.parse-issue.outputs.filename }}"
+
+          git checkout -b "$BRANCH_NAME"
+
+          cat > "docs/posts/${{ steps.parse-issue.outputs.filename }}.md" << 'RECIPE_EOF'
+          ${{ steps.parse-issue.outputs.content }}
+          RECIPE_EOF
+
+          git add "docs/posts/${{ steps.parse-issue.outputs.filename }}.md"
+          git commit -m "Add recipe: ${{ steps.parse-issue.outputs.recipe_title }}"
+          git push origin "$BRANCH_NAME"
+
+          echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
+
+      - name: Create Pull Request
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issueNumber = ${{ steps.parse-issue.outputs.issue_number }};
+            const recipeTitle = `${{ steps.parse-issue.outputs.recipe_title }}`;
+            const filename = `${{ steps.parse-issue.outputs.filename }}`;
+            const branchName = process.env.BRANCH_NAME;
+
+            const pr = await github.rest.pulls.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Add recipe: ${recipeTitle}`,
+              body: `This PR adds a new recipe based on issue #${issueNumber}.\n\n## Recipe\n- **Title:** ${recipeTitle}\n- **File:** \`docs/posts/${filename}.md\`\n\nCloses #${issueNumber}`,
+              head: branchName,
+              base: 'main'
+            });
+
+            // Comment on the issue
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: issueNumber,
+              body: `🍳 A pull request has been created for this recipe!\n\nPR: #${pr.data.number}\n\nPlease review and make any edits directly in the PR if needed.`
+            });
+

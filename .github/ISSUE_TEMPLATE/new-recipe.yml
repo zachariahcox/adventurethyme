@@ -1,0 +1,67 @@
+name: 🍳 New Recipe
+description: Submit a new recipe to be added to Adventure Thyme
+title: "[Recipe]: "
+labels: ["suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for sharing a recipe! Please fill out the details below.
+
+  - type: input
+    id: title
+    attributes:
+      label: Recipe Title
+      description: The name of the dish
+      placeholder: e.g., Chicken Biryani
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: A brief description of the dish (optional)
+      placeholder: e.g., A flavorful Indian rice dish with aromatic spices
+
+  - type: input
+    id: servings
+    attributes:
+      label: Servings
+      description: How many servings does this recipe make?
+      placeholder: e.g., Serves 4-6
+
+  - type: textarea
+    id: ingredients
+    attributes:
+      label: Ingredients
+      description: |
+        List the ingredients, one per line.
+        Format: quantity | ingredient
+      placeholder: |
+        2 cups | all-purpose flour
+        1 tsp | salt
+        1/2 cup | butter
+    validations:
+      required: true
+
+  - type: textarea
+    id: instructions
+    attributes:
+      label: Instructions
+      description: List the cooking steps, separated by blank lines (optional)
+      placeholder: |
+        Preheat oven to 350°F.
+
+        Mix dry ingredients in a bowl.
+        Sift if needed to remove lumps.
+
+        Add wet ingredients and stir until combined.
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Any additional tips or variations (optional)
+      placeholder: e.g., This dish tastes even better the next day!
+
