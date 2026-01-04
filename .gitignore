@@ -24,3 +24,7 @@ out/
 *.swp
 *.swo
 .DS_Store
+
+# Exporter
+exporter/raw/
+exporter/output/

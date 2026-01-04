@@ -4,21 +4,32 @@ import TurndownService from 'turndown';
 import sanitize from 'sanitize-filename';
 
 /**
- * Blogger API v3 Scraper
+ * Blogger API v3 Exporter
+ * 
+ * Usage:
+ *   node export-blogger-api.js --fetch    # Fetch posts from API and save as JSON
+ *   node export-blogger-api.js            # Process existing JSON files to markdown
+ *   node export-blogger-api.js --all      # Fetch and process in one go
  * 
  * Setup:
  * 1. Go to https://console.cloud.google.com/
  * 2. Create a new project (or select existing)
  * 3. Enable the "Blogger API v3" at: APIs & Services → Library → Search "Blogger"
  * 4. Create an API key at: APIs & Services → Credentials → Create Credentials → API Key
- * 5. Set your API key below or via BLOGGER_API_KEY environment variable
+ * 5. Set your API key via BLOGGER_API_KEY environment variable
  */
 
 // Configuration
 const BLOGGER_API_KEY = process.env.BLOGGER_API_KEY || 'YOUR_API_KEY_HERE';
 const BLOG_URL = 'https://adventurethyme.blogspot.com';
-const OUTPUT_DIR = './adventurethyme';
-const MAX_RESULTS_PER_PAGE = 50; // Max allowed by API is 500, but 50 is safer
+const RAW_DIR = './raw';           // Where raw JSON posts are saved
+const OUTPUT_DIR = './output/adventurethyme';  // Final output
+const MAX_RESULTS_PER_PAGE = 50;
+
+// Parse command line arguments
+const args = process.argv.slice(2);
+const shouldFetch = args.includes('--fetch') || args.includes('--all');
+const shouldProcess = !args.includes('--fetch') || args.includes('--all');
 
 // Initialize Turndown for HTML to Markdown conversion
 const turndownService = new TurndownService({
@@ -27,46 +38,23 @@ const turndownService = new TurndownService({
 });
 
 async function main() {
-  console.log('🔍 Starting Blogger API v3 export...\n');
-
-  if (BLOGGER_API_KEY === 'YOUR_API_KEY_HERE') {
-    console.error('❌ Please set your Blogger API key!');
-    console.log('\nSetup instructions:');
-    console.log('1. Go to https://console.cloud.google.com/');
-    console.log('2. Create/select a project');
-    console.log('3. Enable "Blogger API v3" in APIs & Services → Library');
-    console.log('4. Create an API key in APIs & Services → Credentials');
-    console.log('5. Run: BLOGGER_API_KEY=your_key node scrape-blogger-api.js');
-    process.exit(1);
-  }
+  console.log('🔍 Blogger API v3 Exporter\n');
 
   try {
-    // Create output directory structure
-    await createDirectoryStructure();
-
-    // Get blog info
-    const blog = await getBlogByUrl(BLOG_URL);
-    console.log(`📚 Blog: ${blog.name}`);
-    console.log(`   Posts: ${blog.posts?.totalItems || 'unknown'}\n`);
-
-    // Fetch all posts
-    const posts = await getAllPosts(blog.id);
-    console.log(`\n📥 Fetched ${posts.length} posts\n`);
-
-    // Process each post
-    for (const post of posts) {
-      await processPost(post);
+    if (shouldFetch) {
+      await runFetchStage();
     }
 
-    // Create README and config
-    await createReadme(blog);
-    await createGitHubPagesConfig(blog);
+    if (shouldProcess) {
+      await runProcessStage();
+    }
 
-    console.log(`\n✅ Export complete! Output: ${OUTPUT_DIR}`);
-    console.log('\nNext steps:');
-    console.log('1. cd ' + OUTPUT_DIR);
-    console.log('2. git init && git add . && git commit -m "Import from Blogger"');
-    console.log('3. Push to GitHub and enable Pages');
+    if (!shouldFetch && !shouldProcess) {
+      console.log('Usage:');
+      console.log('  node export-blogger-api.js --fetch    # Fetch posts from API');
+      console.log('  node export-blogger-api.js            # Process existing JSON files');
+      console.log('  node export-blogger-api.js --all      # Fetch and process');
+    }
 
   } catch (error) {
     console.error('❌ Error:', error.message);
@@ -80,10 +68,53 @@ async function main() {
   }
 }
 
-async function createDirectoryStructure() {
-  await fs.mkdir(OUTPUT_DIR, { recursive: true });
-  await fs.mkdir(path.join(OUTPUT_DIR, 'posts'), { recursive: true });
-  await fs.mkdir(path.join(OUTPUT_DIR, 'assets', 'images'), { recursive: true });
+// =============================================================================
+// STAGE 1: FETCH
+// =============================================================================
+
+async function runFetchStage() {
+  console.log('📥 STAGE 1: Fetching posts from Blogger API...\n');
+
+  if (BLOGGER_API_KEY === 'YOUR_API_KEY_HERE') {
+    console.error('❌ Please set your Blogger API key!');
+    console.log('\nRun: BLOGGER_API_KEY=your_key node export-blogger-api.js --fetch');
+    process.exit(1);
+  }
+
+  // Create raw directory
+  await fs.mkdir(RAW_DIR, { recursive: true });
+
+  // Get blog info
+  const blog = await getBlogByUrl(BLOG_URL);
+  console.log(`📚 Blog: ${blog.name}`);
+  console.log(`   Posts: ${blog.posts?.totalItems || 'unknown'}\n`);
+
+  // Save blog metadata
+  await fs.writeFile(
+    path.join(RAW_DIR, '_blog.json'),
+    JSON.stringify(blog, null, 2)
+  );
+
+  // Fetch all posts
+  const posts = await getAllPosts(blog.id);
+  console.log(`\n📥 Fetched ${posts.length} posts\n`);
+
+  // Save each post as individual JSON file
+  for (const post of posts) {
+    // Use title if available, otherwise fall back to post ID
+    const baseName = post.title?.trim() 
+      ? sanitize(post.title.toLowerCase().replace(/\s+/g, '-'))
+      : `untitled-${post.id}`;
+    const filename = baseName + '.json';
+    await fs.writeFile(
+      path.join(RAW_DIR, filename),
+      JSON.stringify(post, null, 2)
+    );
+    console.log(`   💾 Saved: ${filename}`);
+  }
+
+  console.log(`\n✅ Fetch complete! ${posts.length} posts saved to ${RAW_DIR}/`);
+  console.log('   Run without --fetch to process these files.\n');
 }
 
 async function getBlogByUrl(blogUrl) {
@@ -134,8 +165,59 @@ async function getAllPosts(blogId) {
   return posts;
 }
 
+// =============================================================================
+// STAGE 2: PROCESS
+// =============================================================================
+
+async function runProcessStage() {
+  console.log('📝 STAGE 2: Processing JSON files to Markdown...\n');
+
+  // Check if raw directory exists
+  try {
+    await fs.access(RAW_DIR);
+  } catch {
+    console.error(`❌ No raw files found in ${RAW_DIR}/`);
+    console.log('   Run with --fetch first to download posts.');
+    process.exit(1);
+  }
+
+  // Create output directory structure
+  await fs.mkdir(OUTPUT_DIR, { recursive: true });
+  await fs.mkdir(path.join(OUTPUT_DIR, 'posts'), { recursive: true });
+  await fs.mkdir(path.join(OUTPUT_DIR, 'assets', 'images'), { recursive: true });
+
+  // Read blog metadata
+  let blog = { name: 'Blog', description: '', url: BLOG_URL };
+  try {
+    const blogData = await fs.readFile(path.join(RAW_DIR, '_blog.json'), 'utf-8');
+    blog = JSON.parse(blogData);
+  } catch {
+    console.log('   ⚠️  No _blog.json found, using defaults');
+  }
+
+  // Get all JSON files (except _blog.json)
+  const files = await fs.readdir(RAW_DIR);
+  const postFiles = files.filter(f => f.endsWith('.json') && f !== '_blog.json');
+
+  console.log(`   Found ${postFiles.length} posts to process\n`);
+
+  // Process each post
+  for (const filename of postFiles) {
+    const filePath = path.join(RAW_DIR, filename);
+    const postData = await fs.readFile(filePath, 'utf-8');
+    const post = JSON.parse(postData);
+    await processPost(post);
+  }
+
+  console.log(`\n✅ Processing complete! Output: ${OUTPUT_DIR}`);
+  console.log('\nNext steps:');
+  console.log('1. cd ' + OUTPUT_DIR);
+  console.log('2. git init && git add . && git commit -m "Import from Blogger"');
+  console.log('3. Push to GitHub and enable Pages');
+}
+
 async function processPost(post) {
-  console.log(`📝 Processing: ${post.title}`);
+  console.log(`   📝 Processing: ${post.title}`);
 
   try {
     // Convert HTML content to Markdown
@@ -147,12 +229,15 @@ async function processPost(post) {
     // Format ingredients as tables (recipe-specific)
     markdown = formatIngredientsTables(markdown);
 
-    // Extract date from the API response (guaranteed accurate!)
+    // Extract date from the API response
     const publishDate = post.published.split('T')[0];
+
+    // Handle empty titles
+    const title = post.title?.trim() || `Untitled Post (${post.id})`;
 
     // Create frontmatter with all available metadata
     const frontmatter = `---
-title: "${post.title.replace(/"/g, '\\"')}"
+title: "${title.replace(/"/g, '\\"')}"
 date: ${publishDate}
 original_link: ${post.url}
 author: ${post.author?.displayName || 'Unknown'}
@@ -165,7 +250,10 @@ labels: [${(post.labels || []).map(l => `"${l}"`).join(', ')}]
     const fullContent = frontmatter + markdown;
 
     // Create sanitized filename
-    const filename = `${sanitize(post.title.toLowerCase().replace(/\s+/g, '-'))}.md`;
+    const baseName = post.title?.trim()
+      ? sanitize(post.title.toLowerCase().replace(/\s+/g, '-'))
+      : `untitled-${post.id}`;
+    const filename = `${baseName}.md`;
 
     // Save to file
     await fs.writeFile(path.join(OUTPUT_DIR, 'posts', filename), fullContent);
@@ -174,7 +262,7 @@ labels: [${(post.labels || []).map(l => `"${l}"`).join(', ')}]
     await downloadImages(post.content || '', post.images || []);
 
   } catch (error) {
-    console.error(`   ⚠️  Error processing "${post.title}": ${error.message}`);
+    console.error(`      ⚠️  Error: ${error.message}`);
   }
 }
 
@@ -232,7 +320,6 @@ function formatIngredientsAsTable(ingredientsText) {
 }
 
 async function downloadImages(htmlContent, apiImages) {
-  // Extract image URLs from HTML content
   const imgRegex = /<img[^>]+src="([^"]+)"/g;
   const imageUrls = new Set();
   
@@ -241,7 +328,6 @@ async function downloadImages(htmlContent, apiImages) {
     imageUrls.add(match[1]);
   }
   
-  // Also add any images from the API response
   for (const img of apiImages) {
     if (img.url) {
       imageUrls.add(img.url);
@@ -255,73 +341,20 @@ async function downloadImages(htmlContent, apiImages) {
       
       const buffer = await response.arrayBuffer();
       
-      // Generate a filename from the URL
       let filename = path.basename(new URL(imageUrl).pathname);
       if (!filename || filename === '/') {
         filename = `image-${Date.now()}.jpg`;
       }
-      filename = filename.split('?')[0]; // Remove query params
+      filename = filename.split('?')[0];
       
       const outputPath = path.join(OUTPUT_DIR, 'assets', 'images', filename);
       await fs.writeFile(outputPath, Buffer.from(buffer));
-      console.log(`   📸 Downloaded: ${filename}`);
-    } catch (error) {
+      console.log(`      📸 Downloaded: ${filename}`);
+    } catch {
       // Silently skip failed image downloads
     }
   }
 }
 
-async function createReadme(blog) {
-  const content = `# ${blog.name}
-
-${blog.description || ''}
-
-This repository contains content exported from Blogger using the Blogger API v3.
-
-## Posts
-
-Blog posts are in the \`posts/\` directory as Markdown files.
-
-## Assets
-
-Images are stored in \`assets/images/\`.
-
-## Original Blog
-
-[${blog.url}](${blog.url})
-`;
-
-  await fs.writeFile(path.join(OUTPUT_DIR, 'README.md'), content);
-}
-
-async function createGitHubPagesConfig(blog) {
-  const config = `title: ${blog.name}
-description: ${blog.description || 'Exported from Blogger'}
-theme: jekyll-theme-minimal
-`;
-
-  await fs.writeFile(path.join(OUTPUT_DIR, '_config.yml'), config);
-
-  const index = `---
-layout: default
----
-
-# ${blog.name}
-
-${blog.description || ''}
-
-## Posts
-
-{% for page in site.pages %}
-{% if page.path contains 'posts/' %}
-* [{{ page.title }}]({{ page.url | relative_url }})
-{% endif %}
-{% endfor %}
-`;
-
-  await fs.writeFile(path.join(OUTPUT_DIR, 'index.md'), index);
-}
-
 // Run
 main();
-
