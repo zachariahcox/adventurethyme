@@ -1,43 +1,39 @@
 ---
-title: "Brisket in the Slow Cooker"
+title: "Brisket in the slow cooker"
 date: 2016-07-09
-original_link: https://adventurethyme.blogspot.com/2016/07/brisket-in-slow-cooker.html
+original_link: http://adventurethyme.blogspot.com/2016/07/brisket-in-slow-cooker.html
+author: Llael
+labels: []
 ---
-
-_Serves 8-10_
 
 ## Ingredients
 
-
 | Quantity | Ingredient |
 | -------- | ---------- |
-| 4-5 pounds | beef brisket |
-| 2 Tbsp | vegetable oil |
-| 2 | large onions, sliced |
-| 6 cloves | garlic, minced |
-| 1 cup | beef broth |
-| 1/2 cup | red wine (or additional beef broth) |
-| 1/4 cup | tomato paste |
-| 2 Tbsp | Worcestershire sauce |
-| 2 Tbsp | brown sugar |
-| 1 Tbsp | paprika |
-| 2 tsp | salt |
-| 1 tsp | black pepper |
+|  | ** |
+| 3 lb | beef brisket |
+|  | Salt and ground black pepper |
+| 4 tsp | vegetable oil |
+| 4 | large onions, halved and sliced thin |
+| 3 stalk | celery, diced |
+| 3 | carrots or parsnips, chopped |
+| 6 | garlic cloves, pressed through a garlic press |
+| 1/2 C |  dry red wine |
+| 1 ¾ C | beef broth |
+| 1 C | chicken broth |
+| 2 T | brown sugar |
+| 1 tsp | tomato paste |
+| 4| bay leaves |
 | 1 tsp | dried thyme |
-| 2 | bay leaves |
-| 2 Tbsp | cornstarch (optional, for thickening gravy) |
-| 2 Tbsp | cold water (optional, for thickening gravy) |
+| ¼ C |  flour |
+| 2 T | cider vinegar |
 
 ## Instructions
+1. Dry the brisket with paper towels, then salt and pepper. Brown the brisket thoroughly on both sides, in 2 tsp of oil, reducing the heat if the fat begins to smoke heavily, 8 to 10 minutes. Transfer it to a slow cooker.
+2. Saute the onions, celery, and carrots in 2 tsp oil until lightly browned. Add garlic, then the wine and cook about 1 minute. Add 1 cup of the beef broth, the chicken broth, brown sugar, tomato paste, bay leaves, and thyme; bring to a boil. Transfer to the slow cooker.
+3. Cover and cook (low for 8-9hrs, or high for 5-6hrs)
+4. Transfer the brisket to a carving board and tent loosely with foil. Set the slow cooker to high. Whisk the flour with the remaining ¾ cup of beef broth until smooth, then stir it into the slow cooker. Continue to cook on high until the sauce has thickened and no longer tastes of flour, 10 to 15 minutes longer. Stir in the vinegar and season with salt and pepper to taste. Slice the brisket thin across the grain. Serve with sauce and vegetables. |
 
+Serves 4+
 
-1. Trim excess fat from brisket, leaving a thin layer on one side.
-2. Heat oil in a large skillet over medium-high heat. Brown brisket on all sides, about 3-4 minutes per side. Transfer to slow cooker.
-3. In the same skillet, add onions and cook until softened, about 5 minutes. Add garlic and cook for another minute. 
-4. Add beef broth to the skillet, scraping up any browned bits from the bottom of the pan.
-5. Stir in red wine, tomato paste, Worcestershire sauce, brown sugar, paprika, salt, pepper, and thyme. Bring to a simmer.
-6. Pour the onion mixture over the brisket in the slow cooker. Add bay leaves.
-7. Cover and cook on low for 8-10 hours, or on high for 4-5 hours, until the brisket is very tender.
-8. Remove brisket from slow cooker and let rest for 10 minutes before slicing against the grain.
-9. Optional: To thicken the gravy, remove bay leaves and skim excess fat from the liquid. Mix cornstarch and cold water in a small bowl, then stir into the liquid in the slow cooker. Cover and cook on high for 15 minutes until thickened.
-10. Serve sliced brisket with the gravy and onions.
+Based on a Cook's Illustrated recipe.

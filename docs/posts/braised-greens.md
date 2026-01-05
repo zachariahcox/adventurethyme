@@ -1,36 +1,33 @@
 ---
 title: "Braised Greens"
 date: 2016-01-01
-original_link: https://adventurethyme.blogspot.com/2016/01/braised-greens.html
+original_link: http://adventurethyme.blogspot.com/2016/01/braised-greens.html
+author: Zachariah Cox
+labels: []
 ---
 
-_Serves 4 as a side dish_
-
 ## Ingredients
+3 tablespoons olive oil  
+1 medium onion, minced (about 1 cup)  
+1/4 teaspoon red pepper flakes  
+1 bunch greens, ribs removed, leaves chopped into 2-inch squares  
+1 cup low-sodium chicken broth  
+3T Apple cider vinegar
 
-
-| Quantity | Ingredient |
-| -------- | ---------- |
-| 2 bunches | hearty greens (collards, kale, or mustard greens) |
-| 3 Tbsp | olive oil |
-| 4 cloves | garlic, thinly sliced |
-| 1/2 tsp | red pepper flakes |
-| 1/2 cup | chicken or vegetable broth |
-| 2 Tbsp | apple cider vinegar |
-| 1 tsp | honey or sugar |
-| | Salt and freshly ground black pepper |
-| | Lemon wedges for serving (optional) |
-
+Note: for thicker greens like collards or kale, increase cooking time by up to 10 minutes, add 1 cup water  
+  
 ## Instructions
 
-
-1. Remove the tough stems from the greens and slice the leaves into 1-inch wide strips. Wash thoroughly and drain, but leave some water clinging to the leaves.
-2. Heat olive oil in a large pot or Dutch oven over medium heat. Add garlic and red pepper flakes, and cook until garlic is fragrant but not browned, about 1 minute.
-3. Add the damp greens to the pot a handful at a time, stirring to coat with oil. As they wilt, add more until all greens are in the pot.
-4. Pour in the broth, vinegar, and honey or sugar. Season with salt and pepper.
-5. Reduce heat to low, cover, and simmer for 20-30 minutes for collards, or 10-15 minutes for kale or mustard greens, until tender. The cooking time will vary depending on the type of greens used.
-6. Uncover, increase heat to medium, and cook until most of the liquid has evaporated, about 5 more minutes.
-7. Taste and adjust seasoning as needed.
-8. Serve hot with lemon wedges on the side if desired.
-
-_Note: For a Southern-style variation, add 1/4 pound of diced bacon or ham at the beginning, and cook until crisp before adding the garlic._
+1. Heat 1 tablespoons oil in Dutch oven or non-stick skillet over medium heat until shimmering.  
+1. Add onion and cook, stirring frequently, until softened and beginning to brown, 4 to 5 minutes.  
+1. Add pepper flakes; cook until garlic is fragrant, about 1 minute.
+1. Add half of greens and stir until beginning to wilt, about 1 minute.  
+1. Add remaining greens, broth, water; quickly cover pot and reduce heat to medium-low.  
+1. Cook, stirring occasionally, until greens are tender:  
+    25 to 35 minutes for kale  
+    35 to 45 minutes for collards.  
+    10 to 20 minutes for cabbage collards, or dino kale, or other thin greens  
+1. Remove lid and increase heat to medium-high.  
+1. Cook, stirring occasionally, until most of liquid has evaporated (bottom of pot will be almost dry and greens will begin to sizzle), 8 to 12 minutes.  
+1. Remove pot from heat
+1. Season with vinegar

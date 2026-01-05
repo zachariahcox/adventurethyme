@@ -1,48 +1,66 @@
 ---
 title: "Thai Sweet Potato Chicken Coconut Curry"
 date: 2020-04-05
-original_link: https://adventurethyme.blogspot.com/2020/04/thai-sweet-potato-chicken-coconut-curry.html
+original_link: http://adventurethyme.blogspot.com/2020/04/thai-sweet-potato-chicken-coconut-curry.html
+author: Llael
+labels: []
 ---
 
-_Flavorful Thai-inspired curry with sweet potatoes and chicken_
-_Serves 4-6_
-
-## Ingredients
-
+Thai Sweet Potato Chicken Coconut Curry  
+  
+Serves 4 to 6  
+  
+**Ingredients:
 
 | Quantity | Ingredient |
 | -------- | ---------- |
-| 2 Tbsp | coconut oil |
-| 1 | large onion, diced |
-| 3 cloves | garlic, minced |
-| 1 Tbsp | fresh ginger, minced |
-| 2-3 Tbsp | Thai red curry paste |
-| 1 lb | boneless, skinless chicken thighs, cut into 1-inch pieces |
-| 2 | medium sweet potatoes, peeled and cubed (about 3 cups) |
-| 1 | red bell pepper, sliced |
-| 2 (14 oz) cans | coconut milk |
-| 2 Tbsp | fish sauce |
-| 1 Tbsp | brown sugar |
-| 1 | lime, juiced |
-| 1 cup | snap peas or green beans |
-| 1/4 cup | fresh basil leaves, torn (Thai basil preferred) |
-| 1/4 cup | fresh cilantro, chopped |
-| | Cooked jasmine rice, for serving |
-| | Lime wedges, for serving |
-
-## Instructions
+|  | ** |
 
 
-1. Heat coconut oil in a large pot or Dutch oven over medium heat. Add onion and cook until softened, about 5 minutes.
-2. Add garlic and ginger, and cook for another minute until fragrant.
-3. Stir in the curry paste and cook for 1 minute to release the flavors.
-4. Add the chicken pieces and cook, stirring occasionally, until no longer pink on the outside, about 5 minutes.
-5. Add sweet potatoes and bell pepper. Stir to coat with the curry mixture.
-6. Pour in the coconut milk, fish sauce, and brown sugar. Stir to combine.
-7. Bring to a simmer, then reduce heat to low. Cover and cook for 15-20 minutes, until the sweet potatoes are tender.
-8. Add the snap peas or green beans and cook for another 3-5 minutes until just tender.
-9. Remove from heat and stir in lime juice, basil, and half the cilantro.
-10. Taste and adjust seasoning if needed.
-11. Serve over jasmine rice, garnished with remaining cilantro and lime wedges.
+1 teaspoon vegetable oil
 
-_Note: For a vegetarian version, omit the chicken and fish sauce (substitute with soy sauce or salt) and add an extra cup of vegetables like mushrooms or cauliflower._
+4-6 T red curry paste (if Mae Ploy, if Thai Kitchen brand, use 2 bottles)
+
+2 T fish sauce
+
+1 cup chicken broth
+
+1 (13.5-ounce) can coconut milk
+
+1.5 pounds sweet potatoes, cut into 3/4-inch pieces
+
+1 onion, cut into 3/4-inch pieces
+
+2 cloves garlic
+
+1 bell pepper (or other veggie like green beans, snow peas, etc), chopped
+
+2 T peanut butter (optional)
+
+⅓ cup dry-roasted peanuts
+
+¾ teaspoon salt
+
+1 pound boneless, skinless chicken thighs, cut into 1-inch pieces
+
+2 teaspoons grated lime zest and lime wedges
+
+¼ cup chopped fresh cilantro
+
+  
+
+**Instructions:**
+
+1) Heat oil in large saucepan over medium heat until shimmering. Add curry paste and cook, stirring constantly, until paste begins to brown, 2 1/2 to 3 minutes. 
+
+  
+
+2) Stir in broth, coconut milk, fish sauce, potatoes, onion, garlic, peanut butter, peanuts, and salt, scraping up any browned bits. Bring to simmer and cook until potatoes are just tender, 12 to 14 minutes.
+
+  
+
+3) Stir in chicken and peppers and continue to simmer until chicken is cooked through, 10 to 12 minutes. Remove pan from heat and stir in lime zest. Serve with lime juice, cilantro, rice.
+
+  
+
+Recipe tuning in progress.

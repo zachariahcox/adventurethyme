@@ -1,38 +1,44 @@
 ---
 title: "Frittata with Grated Zucchini"
 date: 2011-08-04
-original_link: https://adventurethyme.blogspot.com/2011/08/frittata-with-grated-zucchini.html
+original_link: http://adventurethyme.blogspot.com/2011/08/frittata-with-grated-zucchini.html
+author: Llael
+labels: ["paleo", "quick", "spring", "summer", "vegetarian"]
 ---
 
-_Serves 4-6_
-
-## Ingredients
-
+**Ingredients:
 
 | Quantity | Ingredient |
 | -------- | ---------- |
-| 1 | medium zucchini, grated (about 2 cups) |
-| 1/4 tsp | salt |
-| 8 | large eggs |
-| 2 Tbsp | milk |
-| 1/4 tsp | black pepper |
-| 2 Tbsp | olive oil |
-| 1 | small onion, finely chopped |
-| 2 cloves | garlic, minced |
-| 1/2 cup | grated Parmesan cheese |
-| 1/4 cup | chopped fresh basil |
-| 1/4 cup | chopped fresh parsley |
-| 1/2 cup | crumbled feta cheese |
-
-## Instructions
+|  | ** |
 
 
-1. Place grated zucchini in a colander and sprinkle with salt. Let sit for 10 minutes, then squeeze out excess moisture with your hands or by pressing with paper towels.
-2. In a large bowl, beat eggs with milk, and season with pepper.
-3. Heat olive oil in a 10-inch oven-safe skillet over medium heat. Add onion and cook until softened, about 3-4 minutes. Add garlic and cook for 30 seconds more.
-4. Add the squeezed zucchini to the skillet and cook for 2-3 minutes, stirring occasionally.
-5. Reduce heat to medium-low and pour in the egg mixture. Stir gently to distribute the zucchini evenly. Sprinkle the Parmesan cheese, basil, and parsley over the top.
-6. Cook without stirring until the edges are set but the center is still runny, about 5-7 minutes.
-7. Meanwhile, preheat the broiler.
-8. Sprinkle the feta cheese over the top of the frittata and place the skillet under the broiler. Broil until the top is set and lightly golden, 2-3 minutes.
-9. Remove from oven and let cool for 5 minutes. Cut into wedges and serve warm or at room temperature.
+2 tablespoons extra virgin olive oil
+
+1 pound zucchini, grated (about 4 cups)
+
+2 garlic cloves, minced
+
+Salt and freshly ground pepper to taste
+
+8 eggs
+
+2 ounces goat cheese, crumbled (about 1/2 cup) (too bland for our palate. try charcoal-aged goat cheese, or a sharp cheese like parmesan)
+
+1/4 cup chopped fresh dill (too bland for our palate, try fresh thyme or rosmary)
+
+**Instructions:**
+
+**1.** Heat 1 tablespoon of the oil over medium heat in a 10-inch heavy nonstick skillet. Add the zucchini. Cook, stirring, until the zucchini begins to wilt, about two minutes. Stir in the garlic. Cook for another minute or until the zucchini has just wilted — it should still be bright green. Season to taste with salt and pepper, and remove from the heat.
+
+**2.** Beat the eggs in a large bowl with the goat cheese. Add salt and pepper, and stir in the zucchini and the dill.
+
+**3.** Clean and dry the pan, and return to the burner, set on medium-high. Heat the remaining tablespoon of olive oil in the skillet. Drop a bit of egg into the pan; if it sizzles and cooks at once, the pan is ready. Pour in the egg mixture. Tilt the pan to distribute the eggs and filling evenly over the surface. Shake the pan gently, tilting it slightly with one hand while lifting up the edges of the frittata with the spatula in your other hand, to let the eggs run underneath during the first few minutes of cooking.
+
+**4.** Turn the heat to low, cover and cook 10 minutes, shaking the pan gently every once in a while. From time to time, remove the lid, tilt the pan and loosen the bottom of the frittata with a wooden spatula so that it doesn’t burn. The bottom should have a golden color. The eggs should be just about set; cook a few minutes longer if they’re not.
+
+**5.** Meanwhile, heat the broiler. Uncover the pan and place under the broiler, not too close to the heat, for one to three minutes, watching very carefully to make sure the top doesn’t burn (at most, it should brown very slightly and puff under the broiler). Remove from the heat, and shake the pan to make sure the frittata isn’t sticking. Allow it to cool for at least five minutes and for as long as 15 minutes. Loosen the edges with a wooden or plastic spatula. Carefully slide from the pan onto a large round platter. Cut into wedges or into smaller bite-size diamonds. Serve hot, warm, at room temperature or cold.
+
+**Yield:** Six servings.
+
+_Adapted from NY Times Recipe._

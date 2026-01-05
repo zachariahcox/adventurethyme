@@ -1,38 +1,33 @@
 ---
-title: "Chicken Pizzaiola"
+title: "CHICKEN PIZZAIOLA"
 date: 2011-08-04
-original_link: https://adventurethyme.blogspot.com/2011/08/chicken-pizzaiola.html
+original_link: http://adventurethyme.blogspot.com/2011/08/chicken-pizzaiola.html
+author: Llael
+labels: ["quick"]
 ---
 
-_Serves 4_
+## INGREDIENTS
 
-## Ingredients
+*   3cups tomato sauce (must be very flavorful)
+*   1cup [grated Parmesan cheese](http://www.cooksillustrated.com/tastetests/overview.asp?docid=10186)
+*   4[boneless, skinless chicken breasts](http://www.cooksillustrated.com/tastetests/overview.asp?docid=9880)
+*   [Salt and ground black pepper](http://www.cooksillustrated.com/tastetests/overview.asp?docid=9842)
+*   1cup [shredded mozzarella cheese](http://www.cooksillustrated.com/tastetests/overview.asp?docid=9803) (or sliced)
+*   40-60slices pepperoni (or prosciutto possibly)
+*        fresh basil (this is really key to freshening up this quick, childlike dish)
 
+#### INSTRUCTIONS
 
-| Quantity | Ingredient |
-| -------- | ---------- |
-| 4 | boneless, skinless chicken breasts |
-| 1/2 tsp | salt |
-| 1/4 tsp | black pepper |
-| 2 Tbsp | olive oil |
-| 1 | medium onion, thinly sliced |
-| 4 cloves | garlic, minced |
-| 1 (28 oz) can | crushed tomatoes |
-| 1 tsp | dried oregano |
-| 1/2 tsp | red pepper flakes |
-| 1/4 cup | fresh basil, chopped |
-| 8 oz | mozzarella cheese, sliced |
-| 1/4 cup | grated Parmesan cheese |
-
-## Instructions
-
-
-1. Preheat oven to 400°F.
-2. Season chicken breasts with salt and pepper on both sides.
-3. Heat olive oil in a large oven-safe skillet over medium-high heat. Add chicken breasts and cook until golden brown, about 3-4 minutes per side. Transfer chicken to a plate.
-4. In the same skillet, add onions and cook until softened, about 3 minutes. Add garlic and cook for another 30 seconds until fragrant.
-5. Add crushed tomatoes, oregano, and red pepper flakes. Bring sauce to a simmer and cook for 5 minutes until slightly thickened.
-6. Stir in half of the basil. Return chicken to the skillet, nestling it into the sauce.
-7. Top each chicken breast with mozzarella slices and sprinkle with Parmesan cheese.
-8. Transfer skillet to the oven and bake until chicken is cooked through and cheese is melted and bubbly, about 15-20 minutes.
-9. Sprinkle with remaining fresh basil before serving.
+1.  1. **HEAT OVEN AND PREPARE BAKING DISH:** Adjust oven rack to middle position and heat oven to 450 degrees. Spread tomato sauce into 13 by 9-inch baking dish.
+    
+2.  2. **COAT CHICKEN WITH PARMESAN:** Spread Parmesan into shallow dish. Pat chicken dry with paper towels and season with salt and pepper. Working with one breast at a time, dredge in Parmesan. Press on Parmesan to make sure it adheres. Lay chicken in baking dish, smooth side facing up.
+    
+3.  3. **BAKE CHICKEN:** Place chicken in oven and bake 15 minutes. We found this to be somewhat inadequate, and ended up overcooking the pepperoni. If using large chicken breasts, cook longer, perhaps 20 min.
+    
+4.  4. **INCREASE OVEN TEMPERATURE, ADD TOPPINGS, AND FINISH:** Increase oven temperature to 475 degrees. Mound 1/4 cup of mozzarella on top of each chicken breast, then shingle 10-15 slices pepperoni over cheese. Continue to bake until cheese melts and until thickest part of breast registers 160 degrees on instant-read thermometer, 5 to 7 minutes. Serve.
+    
+      
+    
+    _Adapted from Cook's Illustrated._
+    
+    _Tasty comfort food, quick, good healthier substitute for pizza._

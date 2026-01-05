@@ -1,7 +1,9 @@
 ---
 title: "Cooking Around the World: The former Yugoslav Republic of Macedonia"
 date: 2009-08-27
-original_link: https://adventurethyme.blogspot.com/2009/08/cooking-around-world-former-yugoslav.html
+original_link: http://adventurethyme.blogspot.com/2009/08/cooking-around-world-former-yugoslav.html
+author: Matthew White
+labels: ["Cooking Around the World", "Souvlaki", "The former Yugoslav Republic of Macedonia", "Tzatziki"]
 ---
 
 We have started a grand undertaking here at Adventure Thyme. We have decided to cook a dish from every country in the UN! In Alphabetical order! Starting with The!  
